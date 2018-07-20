@@ -94,6 +94,8 @@ Each battle is divided into (hopefully several) rounds. At the start of each rou
 
 ## Skills
 
+This system has two main types of skills. A-Skills are Active Skills, skills you can use when your turn comes up in battle. P-Skills are Passive Skills, which are always active. Players can choose any combination of skills as long as they do not exceed the point limits. Players currently have 1000AXP and 1000PXP to spend on A-Skills and P-Skills respectively. Players cannot earn additional XP, but the limit will rise over time for everyone as the system progresses.
+
 ### A-Skills
 
 Many A-Skills have multiple levels, often adding more power and/or effects. Selecting skills will increase a relevant statistic.
@@ -109,74 +111,74 @@ Everyone has access to these a-skills no matter what they choose.
 
 Selecting these skills increases your attack power.
 
-* Cutting Edge - Deals 2.0x water damage.
+* Cutting Edge (150AXP) - Deals 2.0x water damage.
 	* Plume Edge - Deals 5.0x water damage.
-* Metal Cut - Deals 1.0x non-elemental damage. Cuts through metallic defenses.
-* Ragnarok - Deals 2.0x earth damage. Ranged.
+* Ragnarok (150AXP) - Deals 2.0x earth damage. Ranged.
 	* Odyssey - Deals 5.0x earth damage. Ranged.
-* Planet Diver - Deals 2.0x fire damage.
+* Planet Diver (150AXP) - Deals 2.0x fire damage.
 	* Planetary - Deals 5.0x fire damage.
-* Astral Blast - Deals 2.0x wind damage. Ranged.
+* Astral Blast (150AXP) - Deals 2.0x wind damage. Ranged.
 	* Thunder Mine - Deals 5.0x wind damage. Ranged.
-* Chomp - Pull out a random item and throw it.
-* Throw - Throw a held item.
-* Sledge - Deals 4.0x non-elemental damage, 35% of inflicting mini status.
-* Life Sword - Deals 4.0x fire/water/lightning/earth damage to up to 2 units.
-* Muramasa - Deals damage equal to caster max hp - current hp.
+* Metal Cut (300AXP) - Deals 1.0x non-elemental damage. Cuts through metallic defenses.
+* Chomp (300AXP) - Pull out a random item and throw it.
+* Throw (400AXP) - Throw a held item.
+* Sledge (300AXP) - Deals 4.0x non-elemental damage, 35% of inflicting mini status.
+* Life Sword (300AXP) - Deals 4.0x fire/water/lightning/earth damage to up to 2 units.
+* Muramasa (150AXP) - Deals damage equal to caster max hp - current hp.
 
 #### Magical A-Skills
 
 Selecting these skills increases your magic power.
 
-* Fire - Deals 2.0x fire damage. Can be multitargetted.
+* Fire (100AXP) - Deals 2.0x fire damage. Can be multitargetted.
 	* Fira - Deals 3.0x fire damage.
 	* Firaga - Deals 4.0x fire damage.
 	* Firaja - Deals 5.0x fire damage.
-* Blizzard - Deals 2.0x ice damage. Can be multitargetted.
+* Blizzard (100AXP) - Deals 2.0x ice damage. Can be multitargetted.
 	* Blizzara - Deals 3.0x ice damage.
 	* Blizzaga - Deals 4.0x ice damage.
 	* Blizzaja - Deals 5.0x ice damage.
-* Thunder - Deals 2.0x lightning damage. Can be multitargetted.
+* Thunder (100AXP) - Deals 2.0x lightning damage. Can be multitargetted.
 	* Thundara - Deals 3.0x lightning damage.
 	* Thundaga - Deals 4.0x lightning damage.
 	* Thundaja - Deals 5.0x lightning damage.
-* Aero - Deals 2.0x wind damage. Can be multitargetted.
+* Aero (100AXP) - Deals 2.0x wind damage. Can be multitargetted.
 	* Aera - Deals 3.0x wind damage.
 	* Aeroga - Deals 4.0x wind damage.
 	* Aeroja - Deals 5.0x wind damage.
-* Bio - Deals 2.0x poison damage. Can be multitargetted.
+* Bio (100AXP) - Deals 2.0x poison damage. Can be multitargetted.
 	* Biora - Deals 3.0x poison damage.
 	* Bioga - Deals 4.0x poison damage.
 	* Bioja - Deals 5.0x poison damage.
-* Quake - Deals 6.0x earth damage. Targets everyone.
-* Osmose - Drains SP from an enemy. 1.0x multiplier.
+* Quake (300AXP) - Deals 6.0x earth damage. Targets everyone.
+* Osmose (100AXP) - Drains SP from an enemy. 1.0x multiplier.
 	* Osmosega - 2.0x multiplier.
 
 #### Support A-Skills
 
-* Cure - Heals 1.0x damage. Can be multitargetted.
+* Cure (100AXP) - Heals 1.0x damage. Can be multitargetted.
 	* Cura - Heals 2.0x damage.
 	* Curaga - Heals 3.0x damage.
 	* Curaja - Heals 4.0x damage.
-* Protect - Increases physical defense by 50.
-* Shell - Increases magic defense by 50.
+* Protect (250AXP) - Increases physical defense by 50.
+* Shell (250AXP) - Increases magic defense by 50.
 
 
 ### P-Skills
 
-P-skills are your passive abilities. Many of these can change your playstyle significantly. You can choose up to 1000XP worth.
+P-skills are your passive abilities. Many of these can change your playstyle significantly.
 
-* Magic Power+ (500XP): Increases magic power by 15%.
-* Turbo MP (500XP): Magic strength and cost increased by 30%.
-* Elemancy (500XP): Elemental spells treat enemy resistance as if it were 25 lower.
-* Mystic Blade (500XP): Spells can be cast through weapons. Treat as physical attacks instead.
-* Rushcasting (500XP): Gain extra spells every turn, based on a selected theme, with extra powerful spells on every 5th turn. Or choose a spell to cast every turn with increasingly-greater power.
-* Geomancy (500XP): Gain a stat bonus and/or status effect related to the current environment.
-* Mugging (500XP): Steal x skills have increased success rate and can deal damage.
-* Integration (500XP): Can choose to "equip" items instead of using them, gaining a (usually) beneficial boost.
-* Suffering (500XP): Magic power is increased by 10% per negative status effect on target.
-* Status Boost (500XP): Positive status effects are empowered.
-* Antimagic (500XP): Can choose to deal damage to mp instead.
-* Bloodbath (500XP): Increases damage by 50% at the cost of 12.5% max HP per turn.
-* Absorption (500XP): When dealing damage, can absorb 10% total damage as healing. Can temporarily learn certain abilities when hit by them.
-* Multicasting (500XP): Can attack multiple times per turn at the cost of upcoming turns. Gains a bonus based on how many extra turns are spent.
+* Magic Power+ (500PXP): Increases magic power by 15%.
+* Turbo MP (500PXP): Magic strength and cost increased by 30%.
+* Elemancy (500PXP): Elemental spells treat enemy resistance as if it were 25 lower.
+* Mystic Blade (500PXP): Spells can be cast through weapons. Treat as physical attacks instead.
+* Rushcasting (500PXP): Gain extra spells every turn, based on a selected theme, with extra powerful spells on every 5th turn. Or choose a spell to cast every turn with increasingly-greater power.
+* Geomancy (500PXP): Gain a stat bonus and/or status effect related to the current environment.
+* Mugging (500PXP): Steal x skills have increased success rate and can deal damage.
+* Integration (500PXP): Can choose to "equip" items instead of using them, gaining a (usually) beneficial boost.
+* Suffering (500PXP): Magic power is increased by 10% per negative status effect on target.
+* Status Boost (500PXP): Positive status effects are empowered.
+* Antimagic (500PXP): Can choose to deal damage to mp instead.
+* Bloodbath (500PXP): Increases damage by 50% at the cost of 12.5% max HP per turn.
+* Absorption (500PXP): When dealing damage, can absorb 10% total damage as healing. Can temporarily learn certain abilities when hit by them.
+* Multicasting (500PXP): Can attack multiple times per turn at the cost of upcoming turns. Gains a bonus based on how many extra turns are spent.
