@@ -198,3 +198,11 @@ P-skills are your passive abilities. Many of these can change your playstyle sig
 * Bloodbath (500PXP): Increases damage by 50% at the cost of 12.5% max HP per turn.
 * Absorption (500PXP): When dealing damage, can absorb 10% total damage as healing. Can temporarily learn certain abilities when hit by them.
 * Multicasting (500PXP): Can attack multiple times per turn at the cost of upcoming turns. Gains a bonus based on how many extra turns are spent.
+
+## Custom Shop
+
+Looking for even more variation? Look no further! You can earn HL for these by defeating bosses.
+
+* 50000HL: Noise change. You'll gain several positive and negative attributes from a boss you've fought before. Which boss? The ref decides.
+* 5000HL: Elemental armour. You'll absorb one element and be weak to another.
+* 10000HL: Rip Cheato. Rip Cheato will boost one of your stats!
