@@ -57,7 +57,18 @@ Each battle is divided into (hopefully several) rounds. At the start of each rou
 
 * Protect: Unit's defense increased by 50.
 * Shell: Unit's magic defense increased by 50.
-* Haste: Doubles speed.
+* Haste: Doubles unit's speed.
+* Bubble: Unit's HP is doubled.
+* Aura: Unit will not take damage if it less than the number indicated.
+* Auto-Life: Raise will automatically be cast on this unit when it dies.
+* Metal: All damage done to this unit is reduced to 1.
+* Quick: Unit has twice as many turns this round, and may use these new turns immediately after gaining the status.
+* Attack+: Unit's attack stats increase by 50%.
+* Defense+: Unit's defense stats increase by 50%.
+* Regen: Unit recovers 1/8th of their max HP each round.
+* Elemental Infusion: Unit deals 50% more damage with a particular element and gains 25 resist against that element.
+* Reflect: Most spells targeted at unit will bounce off and hit the caster.
+* Last Stand: Unit will survive the next fatal blow with 1HP.
 
 ### Negative
 
@@ -65,7 +76,7 @@ Each battle is divided into (hopefully several) rounds. At the start of each rou
 * Silence: Unit cannot use magic or sound-based a-skills.
 * Paralysis: Unit cannot use physical a-skills.
 * Slow: Halves speed of unit.
-* Poison: Unit loses 1/8th HP each round.
+* Poison: Unit loses 1/8th of their max HP each round.
 * Sleep: Unit cannot take turns. Healed by physical attacks.
 * Confusion: Unit's a-skills have a 25% of their target changing. 25% chance of failure. Healed by physical attacks.
 * Stop: Unit cannot take turns.
@@ -76,6 +87,7 @@ Each battle is divided into (hopefully several) rounds. At the start of each rou
 * Embargo: Unit may not use items.
 * Sap: Unit loses 1/32nd HP each round. Expires after 10 rounds.
 * Curse: Any damage dealt by unit is also dealt to it.
+* Petrified: Unit is unable to act and is considered dead.
 
 ### Neutral
 
@@ -83,10 +95,14 @@ Each battle is divided into (hopefully several) rounds. At the start of each rou
 * Mini: Unit's attack drops to 1, but evasion doubles.
 * Float: Unit avoids earth attacks, but cannot jump or pick up items.
 * Reverse: Unit is healed by damage and damaged by healing.
+* Mushroom: Unit cannot act, but regenerates HP every round.
+* Missing in action: Unit cannot act, but also cannot be harmed.
+* Undead: Unit is healed by most instant death effects, but harmed by healing.
 
 ### ???
 
 * Imp: Unit can't use items or most a-skills, but...?
+* Glitched: Things will happen.
 
 ## Miscellaneous Rules
 
