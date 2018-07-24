@@ -205,5 +205,6 @@ Looking for even more variation? Look no further! You can earn HL for these by d
 
 * 50000HL: Noise change. You'll gain several positive and negative attributes from a boss you've fought before. Which boss? The ref decides.
 * 5000HL: Elemental armour. You'll absorb one element and be weak to another.
+* 5000HL: Law card. You can use one of these to nullify a rule of your choosing, such as hazards or their lingering effects. Not everything may be nullified.
 * 10000HL: Rip Cheato. Rip Cheato will boost one of your stats!
 * 0HL: Smiles are free! :)
