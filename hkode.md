@@ -121,64 +121,88 @@ Many A-Skills have multiple levels, often adding more power and/or effects. Sele
 Everyone has access to these a-skills no matter what they choose.
 
 * Fight - Deals physical damage with a 1.0x multiplier.
+* Defend - Halves damage taken for this turn.
 * Mix - Combines two items into one. Result can be used immediately and can also be negative.
 
 #### Physical A-Skills
 
 Selecting these skills increases your attack power.
 
-* Cutting Edge (150AXP) - Deals 2.0x water damage.
+* Cutting Edge (100AXP) - Deals 2.0x water damage.
 	* Plume Edge - Deals 5.0x water damage.
-* Ragnarok (150AXP) - Deals 2.0x earth damage. Ranged.
-	* Odyssey - Deals 5.0x earth damage. Ranged.
-* Planet Diver (150AXP) - Deals 2.0x fire damage.
+* Ragnarok (100AXP) - Deals 2.0x earth damage.
+	* Odyssey - Deals 5.0x earth damage.
+* Planet Diver (100AXP) - Deals 2.0x fire damage.
 	* Planetary - Deals 5.0x fire damage.
-* Astral Blast (150AXP) - Deals 2.0x wind damage. Ranged.
-	* Thunder Mine - Deals 5.0x wind damage. Ranged.
-* Metal Cut (300AXP) - Deals 1.0x non-elemental damage. Cuts through metallic defenses.
-* Chomp (300AXP) - Pull out a random item and throw it.
+* Astral Blast (100AXP) - Deals 2.0x wind damage.
+	* Thunder Mine - Deals 5.0x wind damage.
+* Elec Sword (100AXP) - Deals 2.0x lightning damage.
+	* Elec Blade - Deals 5.0x lightning damage.
+* Metal Cut (300AXP) - Deals 2.0x non-elemental damage. Cuts through metallic defenses.
+* Magnum Break (200AXP) - Deals 3.0x fire damage to all enemies.
+* Chomp (250AXP) - Pull out a random item and throw it.
 * Throw (400AXP) - Throw a held item.
-* Sledge (300AXP) - Deals 4.0x non-elemental damage, 35% of inflicting mini status.
+* Sledge (100AXP) - Deals 4.0x non-elemental damage, 35% of inflicting mini status.
 * Life Sword (300AXP) - Deals 4.0x fire/water/lightning/earth damage to up to 2 units.
 * Muramasa (150AXP) - Deals damage equal to caster max hp - current hp.
+* Goblin Punch (100AXP) - Deals 8.0x non-elemental damage if caster and target's hp digits add up to the same number.
+* Magic Hammer (150AXP) - Deals 1.0x non-elemental damage to target's MP.
+* Ice Shard (150AXP) - Deals 3.0x ice damage. Hits before other moves.
+* Shadow Claw (200AXP) - Deals 4.0x dark damage. Increased chance of critical hit.
+* Mug (150AXP) - Deals 1.0x damage and steals an item from the target.
 
 #### Magical A-Skills
 
 Selecting these skills increases your magic power.
 
-* Fire (100AXP) - Deals 2.0x fire damage. Can be multitargetted.
+* Fire (50AXP) - Deals 2.0x fire damage. Can be multitargetted.
 	* Fira - Deals 3.0x fire damage.
 	* Firaga - Deals 4.0x fire damage.
 	* Firaja - Deals 5.0x fire damage.
-* Blizzard (100AXP) - Deals 2.0x ice damage. Can be multitargetted.
+* Blizzard (50AXP) - Deals 2.0x ice damage. Can be multitargetted.
 	* Blizzara - Deals 3.0x ice damage.
 	* Blizzaga - Deals 4.0x ice damage.
 	* Blizzaja - Deals 5.0x ice damage.
-* Thunder (100AXP) - Deals 2.0x lightning damage. Can be multitargetted.
+* Thunder (50AXP) - Deals 2.0x lightning damage. Can be multitargetted.
 	* Thundara - Deals 3.0x lightning damage.
 	* Thundaga - Deals 4.0x lightning damage.
 	* Thundaja - Deals 5.0x lightning damage.
-* Aero (100AXP) - Deals 2.0x wind damage. Can be multitargetted.
+* Aero (50AXP) - Deals 2.0x wind damage. Can be multitargetted.
 	* Aera - Deals 3.0x wind damage.
 	* Aeroga - Deals 4.0x wind damage.
 	* Aeroja - Deals 5.0x wind damage.
-* Bio (100AXP) - Deals 2.0x poison damage. Can be multitargetted.
+* Bio (50AXP) - Deals 2.0x poison damage. Can be multitargetted.
 	* Biora - Deals 3.0x poison damage.
 	* Bioga - Deals 4.0x poison damage.
 	* Bioja - Deals 5.0x poison damage.
+* Zam (50AXP) - Deals 2.0x dark damage. Can be multitargetted.
+	* Zammle - Deals 3.0x dark damage.
+	* Kazam - Deals 4.0x dark damage.
+	* Kazammle - Deals 5.0x dark damage.
+* Gravity (100AXP) - Deals 25% HP worth of damage.
+	* Graviga - Deals 50% HP worth of damage.
 * Quake (300AXP) - Deals 6.0x earth damage. Targets everyone.
-* Osmose (100AXP) - Drains SP from an enemy. 1.0x multiplier.
+* Osmose (50AXP) - Drains SP from an enemy. 1.0x multiplier.
 	* Osmosega - 2.0x multiplier.
+* Hyper Beam (400AXP) - Deals 12.0x non-elemental damage. Caster cannot act next turn.
+* Flare (500AXP) - Deals 6.0x non-elemental damage. Pierces defense.
+* Ultima (500AXP) - Deals 5.0x non-elemental damage to all enemies.
+* Psyshock (100AXP) - Deals 4.0x non-elemental physical damage.
+* Aqua Breath (200AXP) - Deals 4.0x water/wind damage to all enemies.
 
 #### Support A-Skills
 
-* Cure (100AXP) - Heals 1.0x damage. Can be multitargetted.
+* Cure (500AXP) - Heals 1.0x damage. Can be multitargetted.
 	* Cura - Heals 2.0x damage.
 	* Curaga - Heals 3.0x damage.
 	* Curaja - Heals 4.0x damage.
-* Protect (250AXP) - Increases physical defense by 50.
-* Shell (250AXP) - Increases magic defense by 50.
-
+* Protect (100AXP) - Increases physical defense by 50.
+* Shell (100AXP) - Increases magic defense by 50.
+* White Wind (300AXP) - Restores an amount of HP equal to caster's MP to all allies.
+* PSI Healing α (100AXP) - Heals some negative status effects.
+	* PSI Healing Ω - Heals all negative status effects, including death.
+* Slots (300AXP) - Spin the slots for something good!
+* Dragon Dance (500AXP) - Grant Haste, Attack+ and Defense+ to user.
 
 ### P-Skills
 
@@ -188,7 +212,6 @@ P-skills are your passive abilities. Many of these can change your playstyle sig
 * Turbo MP (500PXP): Magic strength and cost increased by 30%.
 * Elemancy (500PXP): Elemental spells treat enemy resistance as if it were 25 lower.
 * Mystic Blade (250PXP): Spells can be cast through weapons. Treat as physical attacks instead.
-* Rushcasting (500PXP): Gain extra spells every turn, based on a selected theme, with extra powerful spells on every 5th turn. Or choose a spell to cast every turn with increasingly-greater power.
 * Geomancy (500PXP): Gain a stat bonus and/or status effect related to the current arena.
 * Mugging (250PXP): Steal x skills have increased success rate and can deal damage.
 * Integration (500PXP): Can choose to "equip" items instead of using them, gaining a (usually) beneficial boost.
@@ -198,6 +221,7 @@ P-skills are your passive abilities. Many of these can change your playstyle sig
 * Bloodbath (500PXP): Increases damage by 50% at the cost of 12.5% max HP per turn.
 * Absorption (500PXP): When dealing damage, can absorb 10% total damage as healing. Can temporarily learn certain abilities when hit by them.
 * Multicasting (500PXP): Can attack multiple times per turn at the cost of upcoming turns. Gains a bonus based on how many extra turns are spent.
+* Phazon Infused (1000PXP): Skill strength increases by 75% and HP regenerates by 20HP per round, but you become immune to healing (Except revival) and have permanent doom status.
 
 ## Custom Shop
 
