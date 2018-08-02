@@ -132,12 +132,16 @@ Selecting these skills increases your attack power.
 	* Plume Edge - Deals 5.0x water damage.
 * Ragnarok (100AXP) - Deals 2.0x earth damage.
 	* Odyssey - Deals 5.0x earth damage.
-* Planet Diver (100AXP) - Deals 2.0x fire damage.
-	* Planetary - Deals 5.0x fire damage.
+* Planet Diver (100AXP) - Deals 2.0x fire damage. 5.0x if jumping.
+	* Planetary - Deals 5.0x fire damage. 8.0x if jumping.
 * Astral Blast (100AXP) - Deals 2.0x wind damage.
 	* Thunder Mine - Deals 5.0x wind damage.
 * Elec Sword (100AXP) - Deals 2.0x lightning damage.
 	* Elec Blade - Deals 5.0x lightning damage.
+* Jump (100AXP) - Allows caster to jump into the skies for one turn, out of range of many attacks.
+	* Dive (100AXP) - Deals 9.0x non-elemental damage. Only usable while caster is jumping.
+	* Drain Jump (100AXP) - Deals 4.0x non-elemental damage and heals the caster for the same amount. Only usable while caster is jumping.
+	* Ultra Jump (100AXP) - Deals 4.0x non-elemental damage and jump back into the sky. Only usable while caster is jumping.
 * Metal Cut (300AXP) - Deals 2.0x non-elemental damage. Cuts through metallic defenses.
 * Magnum Break (200AXP) - Deals 3.0x fire damage to all enemies.
 * Chomp (250AXP) - Pull out a random item and throw it.
@@ -148,6 +152,9 @@ Selecting these skills increases your attack power.
 * Goblin Punch (100AXP) - Deals 8.0x non-elemental damage if caster and target's hp digits add up to the same number.
 * Magic Hammer (150AXP) - Deals 1.0x non-elemental damage to target's MP.
 * Ice Shard (150AXP) - Deals 3.0x ice damage. Hits before other moves.
+* Dizzy Punch (200AXP) - Deals 3.0x non-elemental damage. 50% chance of afflicting target with confusion.
+* Focus Punch (200AXP) - Deals 12.0x non-elemental damage, but requires a turn to charge up and fails if the caster is hit.
+* Sky Uppercut (150AXP) - Deals 4.0x non-elemental damage and can hit targets that are normally unreachable.
 * Shadow Claw (200AXP) - Deals 4.0x dark damage. Increased chance of critical hit.
 * Mug (150AXP) - Deals 1.0x damage and steals an item from the target.
 
