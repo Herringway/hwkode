@@ -210,6 +210,7 @@ Selecting these skills increases your magic power.
 	* PSI Healing Ω - Heals all negative status effects, including death.
 * Slots (300AXP) - Spin the slots for something good!
 * Dragon Dance (500AXP) - Grant Haste, Attack+ and Defense+ to user.
+* Find Item (500AXP) - Look around for an item. This doesn't use a turn and can only be used once per round.
 
 ### P-Skills
 
