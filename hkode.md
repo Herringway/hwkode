@@ -158,7 +158,12 @@ Selecting these skills increases your attack power.
 * Focus Punch (200AXP) - Deals 12.0x non-elemental damage, but requires a turn to charge up and fails if the caster is hit.
 * Sky Uppercut (150AXP) - Deals 4.0x non-elemental damage and can hit targets that are normally unreachable.
 * Shadow Claw (200AXP) - Deals 4.0x dark damage. Increased chance of critical hit.
-* Mug (150AXP) - Deals 1.0x damage and steals an item from the target.
+* Steal (150AXP) - Steals an item from the target.
+	* Steal Dexterity (150AXP) - Inflicts slow on target and grants user haste.
+	* Steal Power (150AXP) - Inflicts Attack- on target and grants user Attack+. 
+	* Steal Defense (150AXP) - Inflicts Defense- on target and grants user Defense+. 
+	* Steal Health (150AXP) - Inflicts Poison on target and grants user Regen. 
+	* Steal Soul (300AXP) - Inflicts Doom on target and grants user Auto-Life. 
 
 #### Magical A-Skills
 
