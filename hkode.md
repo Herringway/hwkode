@@ -169,46 +169,33 @@ Selecting these skills increases your attack power.
 
 Selecting these skills increases your magic power.
 
-* Fire (50AXP) - Deals 2.0x fire damage. Can be multitargetted.
-	* Fira - Deals 3.0x fire damage.
-	* Firaga - Deals 4.0x fire damage.
+* Fira (100AXP) - Deals 3.0x fire damage. Can be multitargetted.
 	* Firaja - Deals 5.0x fire damage.
-* Blizzard (50AXP) - Deals 2.0x ice damage. Can be multitargetted.
-	* Blizzara - Deals 3.0x ice damage.
-	* Blizzaga - Deals 4.0x ice damage.
+* Blizzara (100AXP) - Deals 3.0x ice damage. Can be multitargetted.
 	* Blizzaja - Deals 5.0x ice damage.
-* Thunder (50AXP) - Deals 2.0x lightning damage. Can be multitargetted.
-	* Thundara - Deals 3.0x lightning damage.
-	* Thundaga - Deals 4.0x lightning damage.
+* Thundara (100AXP) - Deals 3.0x lightning damage. Can be multitargetted.
 	* Thundaja - Deals 5.0x lightning damage.
-* Aero (50AXP) - Deals 2.0x wind damage. Can be multitargetted.
-	* Aera - Deals 3.0x wind damage.
-	* Aeroga - Deals 4.0x wind damage.
+* Aera (100AXP) - Deals 3.0x wind damage. Can be multitargetted.
 	* Aeroja - Deals 5.0x wind damage.
-* Bio (50AXP) - Deals 2.0x poison damage. Can be multitargetted.
-	* Biora - Deals 3.0x poison damage.
-	* Bioga - Deals 4.0x poison damage.
-	* Bioja - Deals 5.0x poison damage.
-* Zam (50AXP) - Deals 2.0x dark damage. Can be multitargetted.
-	* Zammle - Deals 3.0x dark damage.
-	* Kazam - Deals 4.0x dark damage.
+* Bio (100AXP) - Deals 3.0x poison damage. Can be multitargetted.
+	* Bioga - Deals 5.0x poison damage.
+* Zammle (100AXP) - Deals 3.0x dark damage. Can be multitargetted.
 	* Kazammle - Deals 5.0x dark damage.
 * Gravity (100AXP) - Deals 25% HP worth of damage.
 	* Graviga - Deals 50% HP worth of damage.
 * Quake (300AXP) - Deals 6.0x earth damage. Targets everyone.
 * Osmose (50AXP) - Drains SP from an enemy. 1.0x multiplier.
 	* Osmosega - 2.0x multiplier.
-* Hyper Beam (400AXP) - Deals 12.0x non-elemental damage. Caster cannot act next turn.
-* Flare (500AXP) - Deals 6.0x non-elemental damage. Pierces defense.
-* Ultima (500AXP) - Deals 5.0x non-elemental damage to all enemies.
+* Hyper Beam (300AXP) - Deals 12.0x non-elemental damage. Caster cannot act next turn.
+* Flare (300AXP) - Deals 6.0x non-elemental damage. Pierces defense.
+* Ultima (300AXP) - Deals 5.0x non-elemental damage to all enemies.
 * Psyshock (100AXP) - Deals 4.0x non-elemental physical damage.
 * Aqua Breath (200AXP) - Deals 4.0x water/wind damage to all enemies.
+* Breath Wing (200AXP) - Deals 25% HP wind-elemental damage to all enemies.
 
 #### Support A-Skills
 
-* Cure (500AXP) - Heals 1.0x damage. Can be multitargetted.
-	* Cura - Heals 2.0x damage.
-	* Curaga - Heals 3.0x damage.
+* Cura (500AXP) - Heals 2.0x damage. Can be multitargetted.
 	* Curaja - Heals 4.0x damage.
 * Protect (100AXP) - Increases physical defense by 50.
 * Shell (100AXP) - Increases magic defense by 50.
