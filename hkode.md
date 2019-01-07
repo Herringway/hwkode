@@ -88,6 +88,8 @@ Each battle is divided into (hopefully several) rounds. At the start of each rou
 * Sap: Unit loses 1/32nd HP each round. Expires after 10 rounds.
 * Curse: Any damage dealt by unit is also dealt to it.
 * Petrified: Unit is unable to act and is considered dead.
+* Attack-: Unit's attack stats decrease by 25%.
+* Defense-: Unit's defense stats decrease by 25%.
 
 ### Neutral
 
