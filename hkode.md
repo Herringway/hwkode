@@ -234,3 +234,7 @@ Looking for even more variation? Look no further! You can earn HL for these by d
 * 5000HL: Law card. You can use one of these to nullify a rule of your choosing, such as hazards or their lingering effects. Not everything may be nullified. You must choose what to nullify when you purchase. Lasts for one battle. This will affect EVERY fighter, so beware...
 * 10000HL: Rip Cheato. Rip Cheato will boost one of your stats...?
 * 0HL: Smiles are free! :)
+
+## Hazards
+
+Hazards are random effects that occur each round after the first. They will be announced at the start of each round and take effect immediately. Many of these are one-time effects, like dealing damage to random fighters or inflicting status effects. Others linger for the entire round, affecting rules or empowering random fighters. Others are permanent and will last throughout the battle. See [hazards.md](hazards.md) for a list of hazards.
