@@ -130,15 +130,15 @@ Everyone has access to these a-skills no matter what they choose.
 
 Selecting these skills increases your attack power.
 
-* Cutting Edge (100AXP) - Deals 2.0x water damage.
+* Cutting Edge (100AXP) - Deals 3.0x water damage.
 	* Plume Edge - Deals 5.0x water damage.
-* Ragnarok (100AXP) - Deals 2.0x earth damage.
+* Ragnarok (100AXP) - Deals 3.0x earth damage.
 	* Odyssey - Deals 5.0x earth damage.
-* Planet Diver (100AXP) - Deals 2.0x fire damage. 5.0x if jumping.
+* Planet Diver (100AXP) - Deals 3.0x fire damage. 5.0x if jumping.
 	* Planetary - Deals 5.0x fire damage. 8.0x if jumping.
-* Astral Blast (100AXP) - Deals 2.0x wind damage.
+* Astral Blast (100AXP) - Deals 3.0x wind damage.
 	* Thunder Mine - Deals 5.0x wind damage.
-* Elec Sword (100AXP) - Deals 2.0x lightning damage.
+* Elec Sword (100AXP) - Deals 3.0x lightning damage.
 	* Elec Blade - Deals 5.0x lightning damage.
 * Jump (100AXP) - Allows caster to jump into the skies for one turn, out of range of many attacks.
 	* Dive (100AXP) - Deals 9.0x non-elemental damage. Only usable while caster is jumping.
