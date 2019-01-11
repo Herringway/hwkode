@@ -160,10 +160,10 @@ Selecting these skills increases your attack power.
 * Shadow Claw (200AXP) - Deals 4.0x dark damage. Increased chance of critical hit.
 * Steal (150AXP) - Steals an item from the target.
 	* Steal Dexterity (150AXP) - Inflicts slow on target and grants user haste.
-	* Steal Power (150AXP) - Inflicts Attack- on target and grants user Attack+. 
-	* Steal Defense (150AXP) - Inflicts Defense- on target and grants user Defense+. 
-	* Steal Health (150AXP) - Inflicts Poison on target and grants user Regen. 
-	* Steal Soul (300AXP) - Inflicts Doom on target and grants user Auto-Life. 
+	* Steal Power (150AXP) - Inflicts Attack- on target and grants user Attack+.
+	* Steal Defense (150AXP) - Inflicts Defense- on target and grants user Defense+.
+	* Steal Health (150AXP) - Inflicts Poison on target and grants user Regen.
+	* Steal Soul (300AXP) - Inflicts Doom on target and grants user Auto-Life.
 
 #### Magical A-Skills
 
