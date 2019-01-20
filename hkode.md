@@ -50,6 +50,7 @@ Each battle is divided into (hopefully several) rounds. At the start of each rou
 |Ice       |⛸️       |Wet targets may be frozen                            |
 |Heart     |💖       |                                                      |
 |Imaginary |💭       |Always hits weakness, but 25% chance to fail          |
+|Gravity   |🌑       |Damage dealt is usually a percentage of current HP    |
 
 ## Status Effects
 
@@ -195,8 +196,8 @@ Everyone has access to these a-skills no matter what they choose.
 | Bioga           | 100AXP | Deals 5.0x poison damage.                                                                                     | Bio           | MAG, MDEF    |
 | Zammle          | 100AXP | Deals 3.0x dark damage. Can be multitargetted.                                                                |               | MAG, MDEF    |
 | Kazammle        | 100AXP | Deals 5.0x dark damage.                                                                                       | Zammle        | MAG, MDEF    |
-| Gravity         | 100AXP | Deals 25% HP worth of damage.                                                                                 |               | MAG, MDEF    |
-| Graviga         | 100AXP | Deals 50% HP worth of damage.                                                                                 | Gravity       | MAG, MDEF    |
+| Gravity         | 100AXP | Deals 25% HP worth of gravity damage.                                                                         |               | MAG, MDEF    |
+| Graviga         | 100AXP | Deals 50% HP worth of gravity damage.                                                                         | Gravity       | MAG, MDEF    |
 | Quake           | 300AXP | Deals 6.0x earth damage. Targets everyone.                                                                    |               | MAG, MDEF    |
 | Osmose          | 50AXP  | Drains SP from an enemy. 1.0x multiplier.                                                                     |               | MAG, MDEF, SP|
 | Osmosega        | 100AXP | 2.0x multiplier.                                                                                              | Osmose        | MAG, MDEF, SP|
