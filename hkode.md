@@ -76,6 +76,7 @@ Every fighter recovers 10% SP at the start of a round.
 * Elemental Infusion: Unit deals 50% more damage with a particular element and gains 25 resist against that element.
 * Reflect: Most spells targeted at unit will bounce off and hit the caster.
 * Last Stand: Unit will survive the next fatal blow with 1HP.
+* Astra: Prevents the next negative status effect from landing.
 
 ### Negative
 
