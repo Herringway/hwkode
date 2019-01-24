@@ -35,6 +35,12 @@ The ultimate goal of a battle is to defeat your opponents.
 
 Each battle is divided into (hopefully several) rounds. At the start of each round, players choose an action to take. Once everyone has decided what they will do, the actions will execute, with the fastest combatants going first and the slowest going last. Some status effects change the number of turns a player will get in a round. Enemies may be able to take multiple turns as well.
 
+Note that some skills may be used freely while deciding actions - You can use as many of them as you want, but unless stated otherwise, you may use each one only once per round.
+
+At the beginning of each round, a [Hazard](#hazards) is selected. The effects of the selected hazard will not activate until the next round, however.
+
+Every fighter recovers 10% SP at the start of a round.
+
 ## Elements
 
 |Element   | Symbol | Special                                              |
@@ -139,7 +145,7 @@ Everyone has access to these a-skills no matter what they choose.
 
 * Fight - Deals physical damage with a 1.0x multiplier.
 * Defend - Halves damage taken for this turn.
-* Mix - Combines two items into one. Result can be used immediately and can also be negative.
+* Mix - Combines two items into one. Can be used before a round is resolved. Positive results not guaranteed...
 
 #### Physical A-Skills
 
@@ -249,9 +255,9 @@ Looking for even more variation? Look no further! You can earn HL for these by d
 * 50000HL: Noise change. You'll gain several positive and negative attributes from a boss you've fought before. Which boss? The ref decides.
 * 5000HL: Elemental armour. You'll absorb one element and be weak to another.
 * 5000HL: Law card. You can use one of these to nullify a rule of your choosing, such as hazards or their lingering effects. Not everything may be nullified. You must choose what to nullify when you purchase. Lasts for one battle. This will affect EVERY fighter, so beware...
-* 10000HL: Rip Cheato. Rip Cheato will boost one of your stats...?
+* 10000HL: Chet Rippo will boost one of your stats...?
 * 0HL: Smiles are free! :)
 
 ## Hazards
 
-Hazards are random effects that occur each round after the first. They will be announced at the start of each round and take effect immediately. Many of these are one-time effects, like dealing damage to random fighters or inflicting status effects. Others linger for the entire round, affecting rules or empowering random fighters. Others are permanent and will last throughout the battle. See [hazards.md](hazards.md) for a list of hazards.
+Hazards are random effects that occur each round after the first. They will be announced at the start of each round and take effect at the start of the next. Many of these are one-time effects, like dealing damage to random fighters or inflicting status effects. Others linger for the entire round, affecting rules or empowering random fighters. Others are permanent and will last throughout the battle. See [hazards.md](hazards.md) for a list of hazards.
