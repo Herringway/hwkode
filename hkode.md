@@ -35,6 +35,8 @@ The ultimate goal of a battle is to defeat your opponents.
 
 Each battle is divided into (hopefully several) rounds. At the start of each round, players choose an action to take. Once everyone has decided what they will do, the actions will execute, with the fastest combatants going first and the slowest going last. Some status effects change the number of turns a player will get in a round. Enemies may be able to take multiple turns as well.
 
+A round will be resolved once all fighters have selected their actions, or when the ref runs out of patience. Fighters that haven't picked any actions won't do anything that round. Don't miss your turn!
+
 Note that some skills may be used freely while deciding actions - You can use as many of them as you want, but unless stated otherwise, you may use each one only once per round.
 
 At the beginning of each round, a [Hazard](#hazards) is selected. The effects of the selected hazard will not activate until the next round, however.
