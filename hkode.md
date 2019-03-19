@@ -55,7 +55,6 @@ Every fighter recovers 10% SP at the start of a round.
 |Dark      |😈       |                                                      |
 |Ice       |⛸️       |Wet targets may be frozen                            |
 |Heart     |💖       |                                                      |
-|Imaginary |💭       |Always hits weakness, but 25% chance to fail          |
 |Gravity   |🌑       |Damage dealt is usually a percentage of current HP    |
 
 ## Status Effects
