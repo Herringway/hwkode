@@ -8,16 +8,16 @@ Each battle consists of one or more enemies, a ref to keep things moving (mostly
 
 ## Terms
 
-* A-Skill: Active Skill. These are skills that you purchase with XP and can use whenever your turn comes up.
-* Arena Barrier: Similar to the ref barrier, this barrier protects the audience from everything going on in the arena. The reverse is also true - those inside the arena are safe from those who are outside.
-* Caster: Refers to whoever is using an ability, regardless of whether or not it is magical or physical.
 * HP: Health Points. Run out of these and you're dead! Hope someone else is merciful...
+* SP: Skill/Spell points. You can spend these in battle to use your abilities.
+* A-Skill: Active Skill. These are skills that you purchase with XP and can use whenever your turn comes up.
 * P-Skill: Passive Skill. These are skills that you purchase with XP and provide various effects, like increased magic strength or HP absorbing.
+* Caster: Refers to whoever is using an ability, regardless of whether or not it is magical or physical.
+* Unit: A specific combatant in the battle.
+* Arena Barrier: Similar to the ref barrier, this barrier protects the audience from everything going on in the arena. The reverse is also true - those inside the arena are safe from those who are outside.
 * RCP: Referee Control Panel. This wonderful device is responsible for all the arena functions, from protecting the audience and ref to simple stat displays. Occasionally crashes or glitches. Usually operated by the ref, but not always...
 * Ref: Short for referee. The person refereeing is responsible for keeping the battle moving, resolving conflicts and generally making sure things stay fun, even if that means ending the battle. Ingame, the ref is responsible for operating the RCP and is an active part of battles. Normally, the ref is present but protected by a ref barrier, preventing any negative effects from affecting them. But when the barrier goes down... beware.
 * Ref Barrier: This barrier is projected by the RCP on the ref and RCP itself during normal operation. Whoever is protected enjoys immunity to everything thrown about the arena.
-* SP: Skill/Spell points. You can spend these in battle to use your abilities.
-* Unit: A specific combatant in the battle.
 
 ## Battle Objectives
 
