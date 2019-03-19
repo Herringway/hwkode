@@ -207,13 +207,13 @@ Everyone has access to these a-skills no matter what they choose.
 | Graviga         | 100AXP | Deals 50% HP worth of gravity damage.                                                                         | Gravity       | MAG, MDEF    |
 | Quake           | 300AXP | Deals 6.0x earth damage. Targets everyone.                                                                    |               | MAG, MDEF    |
 | Osmose          | 50AXP  | Drains SP from an enemy. 1.0x multiplier.                                                                     |               | MAG, MDEF, SP|
-| Osmosega        | 100AXP | 2.0x multiplier.                                                                                              | Osmose        | MAG, MDEF, SP|
+| Osmosega        | 100AXP | Drains SP from an enemy. 2.0x multiplier.                                                                     | Osmose        | MAG, MDEF, SP|
 | Hyper Beam      | 300AXP | Deals 12.0x non-elemental damage. Caster cannot act next turn.                                                |               | MAG, MDEF    |
 | Flare           | 300AXP | Deals 6.0x non-elemental damage. Pierces defense.                                                             |               | MAG, MDEF    |
 | Ultima          | 300AXP | Deals 5.0x non-elemental damage to all enemies.                                                               |               | MAG, MDEF    |
 | Psyshock        | 100AXP | Deals 4.0x non-elemental physical damage.                                                                     |               | MAG, MDEF    |
 | Aqua Breath     | 200AXP | Deals 4.0x water/wind damage to all enemies.                                                                  |               | MAG, MDEF    |
-| Breath Wing     | 200AXP | Deals 25% HP wind-elemental damage to all enemies.                                                            |               | MAG, MDEF    |
+| Breath Wing     | 200AXP | Deals 25% HP gravity/wind-elemental damage to all enemies.                                                    |               | MAG, MDEF    |
 
 #### Support A-Skills
 
