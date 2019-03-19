@@ -1,6 +1,6 @@
 # Hazards
 
-Hazards are grouped into sets. 
+Hazards are grouped into sets.
 
 ## NES Hard
 Hazards inspired by NES games.
