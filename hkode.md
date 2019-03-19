@@ -229,7 +229,6 @@ All stats are rounded up to the next nearest integer.
 * Lock: Unit may only use default a-skills.
 * Embargo: Unit may not use items.
 * Sap: Unit loses 1% of their HP each round. Usually expires after 5 rounds.
-* Curse: Any damage dealt by unit is also dealt to it.
 * Petrified: Unit is unable to act and is considered dead.
 * Attack-: Unit's attack stats decrease by 25%.
 * Defense-: Unit's defense stats decrease by 25%.
