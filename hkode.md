@@ -151,6 +151,9 @@ P-skills are your passive abilities. Many of these can change your playstyle sig
 |-------------------|--------|-------------------------------------------------------------------------------------------------------|
 | Magic Power+      | 500PXP | Increases magic power by 50%.                                                                         |
 | Attack Power+     | 500PXP | Increases attack power by 50%.                                                                        |
+| Piercing Blow     | 500PXP | Fight now ignores defense.                                                                            |
+| Reckless          | 200PXP | Increases attack power by 50%, decreases defense by 25%.                                              |
+| Sluggish          | 200PXP | Increases attack power by 50%, decreases speed by 50%.                                                |
 | Turbo SP          | 500PXP | Magic strength and cost increased by 30%.                                                             |
 | Elemancy          | 500PXP | Elemental spells treat enemy resistance as if it were 25 lower.                                       |
 | Mystic Blade      | 250PXP | Spells can be cast through weapons. Treat as physical attacks instead.                                |
@@ -166,6 +169,8 @@ P-skills are your passive abilities. Many of these can change your playstyle sig
 | Regenerative      | 300PXP | Begin battle with permanent regen.                                                                    |
 | Lightweight       | 100PXP | Begin battle with permanent float.                                                                    |
 | Speedy            | 200PXP | Begin battle with permanent haste.                                                                    |
+| Evasive           | 500PXP | Boosts physical evasion by 50%.                                                                       |
+| Dual Wield        | 500PXP | You automatically use Fight in addition to your selected action.                                      |
 
 ## Base Stats
 
