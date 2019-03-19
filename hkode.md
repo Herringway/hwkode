@@ -177,7 +177,7 @@ Everyone has access to these a-skills no matter what they choose.
 | Magic Hammer    | 150AXP | Deals 1.0x non-elemental damage to target's MP.                                                               |               | ATK, DEF     |
 | Ice Shard       | 150AXP | Deals 3.0x ice damage. Hits before other moves.                                                               |               | ATK, DEF     |
 | Dizzy Punch     | 200AXP | Deals 3.0x non-elemental damage. 50% chance of afflicting target with confusion.                              |               | ATK, DEF     |
-| Focus Punch     | 200AXP | Deals 12.0x non-elemental damage, but requires a turn to charge up and fails if the caster is hit.            |               | ATK, DEF     |
+| Dynamic Punch   | 200AXP | Deals 12.0x non-elemental damage, but is likely to miss. Will confuse if it connects.                         |               | ATK, DEF     |
 | Sky Uppercut    | 150AXP | Deals 4.0x non-elemental damage and can hit targets that are normally unreachable.                            |               | ATK, DEF     |
 | Shadow Claw     | 200AXP | Deals 4.0x dark damage. Increased chance of critical hit.                                                     |               | ATK, DEF     |
 | Steal           | 150AXP | Steals an item from the target.                                                                               |               | ATK, SPD     |
