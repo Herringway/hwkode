@@ -266,3 +266,5 @@ Looking for even more variation? Look no further! You can earn HL for these by d
 ## Hazards
 
 Hazards are random effects that occur each round after the first. They will be announced at the start of each round and take effect at the start of the next. Many of these are one-time effects, like dealing damage to random fighters or inflicting status effects. Others linger for the entire round, affecting rules or empowering random fighters. Others are permanent and will last throughout the battle. See [hazards.md](hazards.md) for a list of hazards.
+
+NOTE: Hazards are extremely incomplete.
