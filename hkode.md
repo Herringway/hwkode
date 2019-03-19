@@ -33,7 +33,7 @@ The ultimate goal of a battle is to defeat your opponents.
 
 ## Turn System
 
-Each battle is divided into (hopefully several) rounds. At the start of each round, players choose an action to take. Once everyone has decided what they will do, the actions will execute, with the fastest combatants going first and the slowest going last. Some status effects change the number of turns a player will get in a round. Enemies may be able to take multiple turns as well.
+Each battle is divided into several (hopefully) rounds. At the start of each round, players choose an action to take. Once everyone has decided what they will do, the actions will execute, with the fastest combatants going first and the slowest going last. Some status effects change the number of turns a player will get in a round. Enemies may be able to take multiple turns as well.
 
 A round will be resolved once all fighters have selected their actions, or when the ref runs out of patience. Fighters that haven't picked any actions won't do anything that round. Don't miss your turn!
 
