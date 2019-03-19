@@ -86,7 +86,7 @@ Everyone has access to these a-skills no matter what they choose.
 | Life Sword      | 300AXP | Deals 4.0x fire/water/lightning/earth damage to up to 2 units.                                                |               | ATK, DEF     |
 | Muramasa        | 150AXP | Deals damage equal to caster max hp - current hp.                                                             |               | HP, ATK      |
 | Goblin Punch    | 100AXP | Deals 8.0x non-elemental damage if caster and target's hp digits add up to the same number.                   |               | HP, ATK      |
-| Magic Hammer    | 150AXP | Deals 1.0x non-elemental damage to target's MP.                                                               |               | ATK, DEF     |
+| Magic Hammer    | 150AXP | Deals 1.0x non-elemental damage to target's SP.                                                               |               | ATK, DEF     |
 | Ice Shard       | 150AXP | Deals 3.0x ice damage. Hits before other moves.                                                               |               | ATK, DEF     |
 | Dizzy Punch     | 200AXP | Deals 3.0x non-elemental damage. 50% chance of afflicting target with confusion.                              |               | ATK, DEF     |
 | Dynamic Punch   | 200AXP | Deals 12.0x non-elemental damage, but is likely to miss. Will confuse if it connects.                         |               | ATK, DEF     |
