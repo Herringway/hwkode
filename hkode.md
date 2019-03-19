@@ -180,19 +180,19 @@ All stats are rounded up to the next nearest integer.
 
 ## Elements
 
-|Element   | Symbol | Special                                              |
-|----------|--------|------------------------------------------------------|
-|Water     |💧       |Douses flames                                         |
-|Fire      |🔥       |Thaws ice                                             |
-|Lightning |⚡       |Double damage on wet targets, backfire on wet casters |
-|Wind      |🌪️       |                                                     |
-|Earth     |⛰️       |                                                     |
-|Poison    |☣️       |                                                     |
-|Holy      |✝️       |                                                     |
-|Dark      |😈       |                                                      |
-|Ice       |⛸️       |Wet targets may be frozen                            |
-|Heart     |💖       |                                                      |
-|Gravity   |🌑       |Damage dealt is usually a percentage of current HP    |
+|Element   | Symbol |
+|----------|--------|
+|Water     |💧       |
+|Fire      |🔥       |
+|Lightning |⚡       |
+|Wind      |🌪️       |
+|Earth     |⛰️       |
+|Poison    |☣️       |
+|Holy      |✝️       |
+|Dark      |😈       |
+|Ice       |⛸️       |
+|Heart     |💖       |
+|Gravity   |🌑       |
 
 ## Status Effects
 
