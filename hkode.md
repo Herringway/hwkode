@@ -253,6 +253,7 @@ All stats are rounded up to the next nearest integer.
 ## Miscellaneous Rules
 
 * Multitargetting: Some a-skills can optionally target multiple units. When this occurs, damage is divided according to the number of units. This does not apply to skills that are always multitargetted.
+* Elemental Resistance: A stat that determines how much damage you take from a particular element. 100 is the standard, representing the normal 100% damage taken. A resist of 50 means 50% damage, 200 means 200% damage, etc.
 
 ## Custom Shop
 
