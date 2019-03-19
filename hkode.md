@@ -161,6 +161,7 @@ Everyone has access to these a-skills no matter what they choose.
 | Thunder Mine    | 100AXP | Deals 5.0x wind damage.                                                                                       | Astral Blast  | ATK, DEF     |
 | Elec Sword      | 100AXP | Deals 3.0x lightning damage.                                                                                  |               | ATK, DEF     |
 | Elec Blade      | 100AXP | Deals 5.0x lightning damage.                                                                                  | Elec Sword    | ATK, DEF     |
+| Saint Cross     | 200AXP | Deals 5.0x holy damage.                                                                                       |               | ATK, DEF     |
 | Jump            | 100AXP | Allows caster to jump into the skies for one turn, out of range of many attacks.                              |               | ATK, DEF     |
 | Dive            | 100AXP | Deals 9.0x non-elemental damage. Only usable while caster is jumping.                                         | Jump          | ATK, DEF     |
 | Drain Jump      | 100AXP | Deals 4.0x non-elemental damage and heals the caster for the same amount. Only usable while caster is jumping.| Jump          | ATK, DEF     |
