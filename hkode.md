@@ -190,17 +190,17 @@ Everyone has access to these a-skills no matter what they choose.
 
 | Name            | AXP    | Description                                                                                                   | Prerequisites | Boosted Stats|
 |-----------------|--------|---------------------------------------------------------------------------------------------------------------|---------------|--------------|
-| Fira            | 100AXP | Deals 3.0x fire damage. Can be multitargetted.                                                                |               | MAG, MDEF    |
+| Fira            | 100AXP | Deals 3.0x fire damage.                                                                                       |               | MAG, MDEF    |
 | Firaja          | 100AXP | Deals 5.0x fire damage.                                                                                       | Fira          | MAG, MDEF    |
-| Blizzara        | 100AXP | Deals 3.0x ice damage. Can be multitargetted.                                                                 |               | MAG, MDEF    |
+| Blizzara        | 100AXP | Deals 3.0x ice damage.                                                                                        |               | MAG, MDEF    |
 | Blizzaja        | 100AXP | Deals 5.0x ice damage.                                                                                        | Blizzara      | MAG, MDEF    |
-| Thundara        | 100AXP | Deals 3.0x lightning damage. Can be multitargetted.                                                           |               | MAG, MDEF    |
+| Thundara        | 100AXP | Deals 3.0x lightning damage.                                                                                  |               | MAG, MDEF    |
 | Thundaja        | 100AXP | Deals 5.0x lightning damage.                                                                                  | Thundara      | MAG, MDEF    |
-| Aera            | 100AXP | Deals 3.0x wind damage. Can be multitargetted.                                                                |               | MAG, MDEF    |
+| Aera            | 100AXP | Deals 3.0x wind damage.                                                                                       |               | MAG, MDEF    |
 | Aeroja          | 100AXP | Deals 5.0x wind damage.                                                                                       | Aera          | MAG, MDEF    |
-| Bio             | 100AXP | Deals 3.0x poison damage. Can be multitargetted.                                                              |               | MAG, MDEF    |
+| Bio             | 100AXP | Deals 3.0x poison damage.                                                                                     |               | MAG, MDEF    |
 | Bioga           | 100AXP | Deals 5.0x poison damage.                                                                                     | Bio           | MAG, MDEF    |
-| Zammle          | 100AXP | Deals 3.0x dark damage. Can be multitargetted.                                                                |               | MAG, MDEF    |
+| Zammle          | 100AXP | Deals 3.0x dark damage.                                                                                       |               | MAG, MDEF    |
 | Kazammle        | 100AXP | Deals 5.0x dark damage.                                                                                       | Zammle        | MAG, MDEF    |
 | Holy            | 200AXP | Deals 5.0x holy damage.                                                                                       |               | MAG, MDEF    |
 | Gravity         | 100AXP | Deals 25% HP worth of gravity damage.                                                                         |               | MAG, MDEF    |
@@ -219,7 +219,7 @@ Everyone has access to these a-skills no matter what they choose.
 
 | Name            | AXP    | Description                                                                                                   | Prerequisites | Boosted Stats|
 |-----------------|--------|---------------------------------------------------------------------------------------------------------------|---------------|--------------|
-| Cura            | 300AXP | Heals 2.0x damage. Can be multitargetted.                                                                     |               | MAG, MDEF, HP|
+| Cura            | 300AXP | Heals 2.0x damage.                                                                                            |               | MAG, MDEF, HP|
 | Curaja          | 300AXP | Heals 4.0x damage.                                                                                            | Cura          | MAG, MDEF, HP|
 | Protect         | 100AXP | Increases physical defense by 50.                                                                             |               | DEF, MDEF, HP|
 | Shell           | 100AXP | Increases magic defense by 50.                                                                                |               | DEF, MDEF, HP|
