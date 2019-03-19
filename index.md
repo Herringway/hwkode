@@ -159,7 +159,7 @@ P-skills are your passive abilities. Many of these can change your playstyle sig
 | Turbo SP          | 500PXP | Magic strength and cost increased by 30%.                                                             |
 | Elemancy          | 500PXP | Elemental spells treat enemy resistance as if it were 25 lower.                                       |
 | Mystic Blade      | 250PXP | Spells can be cast through weapons. Treat as physical attacks instead.                                |
-| Geomancy          | 500PXP | Gain a stat bonus and/or status effect related to the current arena.                                  |
+| Geomancy          | 500PXP | Gain a stat bonus and/or status effect related to the current arena, usually positive.                |
 | Mugging           | 250PXP | Steal x skills have increased success rate and can deal damage.                                       |
 | Integration       | 500PXP | Can choose to "equip" items instead of using them, gaining a (usually) beneficial boost.              |
 | Status Boost      | 500PXP | Negative status effects are more likely to land.                                                      |
