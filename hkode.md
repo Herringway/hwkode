@@ -123,11 +123,11 @@ With no skills or other modifiers, everyone has *100 HP*, *100 SP*, *50 ATK*, *5
 
 ATK, DEF, MATK and MDEF: ```StatBonus = sqrt(3 * XPSpentInRelevantSkills)```
 
-HP: ```StatBonus = sqrt(3 * (XPSpentInHPSkills + 0.5 * XPSpentInDEFSkills + 0.1 * XPSpentInMDEFSkills))```
+HP: ```StatBonus = sqrt(4 * XPSpentInHPSkills + 0.5 * XPSpentInDEFSkills + 0.1 * XPSpentInMDEFSkills)```
 
-SP: ```StatBonus = sqrt(3 * (XPSpentInSPSkills + 0.1 * XPSpentInATKSkills + 0.5 * XPSpentInMATKSkills))```
+SP: ```StatBonus = sqrt(4 * XPSpentInSPSkills + 0.1 * XPSpentInATKSkills + 0.5 * XPSpentInMATKSkills)```
 
-Speed: ```StatBonus = sqrt(XPSPentInRelevantSkills)```
+Speed: ```StatBonus = sqrt(2 * XPSPentInRelevantSkills)```
 
 All stats are rounded up to the next nearest integer.
 
