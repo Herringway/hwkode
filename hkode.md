@@ -131,12 +131,15 @@ Everyone has access to these a-skills no matter what they choose.
 |-----------------|--------|---------------------------------------------------------------------------------------------------------------|---------------|--------------|
 | Cura            | 300AXP | Heals 2.0x damage.                                                                                            |               | MAG, MDEF, HP|
 | Curaja          | 300AXP | Heals 4.0x damage.                                                                                            | Cura          | MAG, MDEF, HP|
+| Astra           | 200AXP | Blocks a status effect-causing attack.                                                                        |               | MAG, MDEF, HP|
+| Prayer          | 150AXP | Heals 1.0x damage and grants regen status to targets.                                                         |               | MAG, MDEF, HP|
 | Protect         | 100AXP | Doubles physical defense.                                                                                     |               | DEF, MDEF, HP|
 | Shell           | 100AXP | Doubles magic defense.                                                                                        |               | DEF, MDEF, HP|
 | White Wind      | 300AXP | Restores an amount of HP equal to caster's HP to all allies.                                                  |               | DEF, MDEF, HP|
 | PSI Healing α   | 100AXP | Heals negative status effects, except death.                                                                  |               | DEF, MDEF, HP|
 | PSI Healing Ω   | 100AXP | Heals negative status effects, including death.                                                               | PSI Healing α | DEF, MDEF, HP|
 | Slots           | 300AXP | Spin the slots for something good!                                                                            |               | HP, SP       |
+| Disappear       | 150AXP | Gain the missing-in-action status for one round.                                                              |               | ATK, SPD     |
 | Dragon Dance    | 400AXP | Grant Haste, Attack+ and Defense+ to user.                                                                    |               | HP, SPD      |
 | Find Item       | 300AXP | Look around for an item. This doesn't use a turn and can only be used once per round.                         |               | HP, SPD      |
 
