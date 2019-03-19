@@ -148,7 +148,7 @@ P-skills are your passive abilities. Many of these can change your playstyle sig
 |-------------------|--------|-------------------------------------------------------------------------------------------------------|
 | Magic Power+      | 500PXP | Increases magic power by 50%.                                                                         |
 | Attack Power+     | 500PXP | Increases attack power by 50%.                                                                        |
-| Turbo MP          | 500PXP | Magic strength and cost increased by 30%.                                                             |
+| Turbo SP          | 500PXP | Magic strength and cost increased by 30%.                                                             |
 | Elemancy          | 500PXP | Elemental spells treat enemy resistance as if it were 25 lower.                                       |
 | Mystic Blade      | 250PXP | Spells can be cast through weapons. Treat as physical attacks instead.                                |
 | Geomancy          | 500PXP | Gain a stat bonus and/or status effect related to the current arena.                                  |
