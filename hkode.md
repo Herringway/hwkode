@@ -186,6 +186,106 @@ Speed: ```StatBonus = sqrt(2 * XPSPentInRelevantSkills)```
 
 All stats are rounded up to the next nearest integer.
 
+## Presets
+
+While you can choose your own skills, you may also join battle with some pre-made sets.
+
+### White Mage
+Mostly healing, but not totally defenseless.
+
+#### A-Skills
+
+- Cura
+- Curaja
+- Protect
+- Shell
+- Astra
+- Prayer
+- White Wind
+- PSI Healing alpha
+- PSI Healing omega
+- Osmose
+- Osmosega
+- Holy
+
+#### P-Skills
+
+- Regenerative
+- Speedy
+- Magic Power+
+
+### Black Mage
+Destroy everything with magic!
+
+#### A-Skills
+
+- Fira
+- Firaja
+- Thundara
+- Thundaja
+- Blizzara
+- Blizzaja
+- Flare
+- Ultima
+- Osmose
+- Osmosega
+- Quake
+- Bio
+- Bioga
+- Gravity
+
+#### P-Skills
+
+- Elemancy
+- Magic Power+
+
+### Spellblade
+These warriors channel magic through their bodies to fuel unusual, powerful techniques.
+
+#### A-Skills
+
+- Cutting Edge
+- Plume Edge
+- Ragnarok
+- Odyssey
+- Planet Diver
+- Planetary
+- Elec Sword
+- Elec Blade
+- Astral Blast
+- Thunder Mine
+- Metal Cut
+- Magnum Break
+- Life Sword
+- Saint Cross
+
+#### P-Skills
+
+- Attack Power+
+- Piercing Blow
+
+### Ninja
+Masters of sabotage and assassination.
+
+#### A-Skills
+
+- Throw
+- Chomp
+- Muramasa
+- Find Item
+- Shadow Claw
+- Disappear
+- Steal
+- Steal Dexterity
+- Steal Power
+- Steal Defense
+- Steal Health
+
+#### P-Skills
+
+- Dual Wield
+- Evasive
+
 ## Elements
 
 |Element   | Symbol |
