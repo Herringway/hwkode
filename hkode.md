@@ -185,7 +185,6 @@ Everyone has access to these a-skills no matter what they choose.
 | Steal Power     | 150AXP | Inflicts Attack- on target and grants user Attack+.                                                           | Steal         | ATK, SPD     |
 | Steal Defense   | 150AXP | Inflicts Defense- on target and grants user Defense+.                                                         | Steal         | ATK, SPD     |
 | Steal Health    | 150AXP | Inflicts Poison on target and grants user Regen.                                                              | Steal         | ATK, SPD     |
-| Steal Soul      | 300AXP | Inflicts Doom on target and grants user Auto-Life.                                                            | Steal         | ATK, SPD     |
 
 #### Magical A-Skills
 
@@ -203,6 +202,7 @@ Everyone has access to these a-skills no matter what they choose.
 | Bioga           | 100AXP | Deals 5.0x poison damage.                                                                                     | Bio           | MAG, MDEF    |
 | Zammle          | 100AXP | Deals 3.0x dark damage. Can be multitargetted.                                                                |               | MAG, MDEF    |
 | Kazammle        | 100AXP | Deals 5.0x dark damage.                                                                                       | Zammle        | MAG, MDEF    |
+| Holy            | 200AXP | Deals 5.0x holy damage.                                                                                       |               | MAG, MDEF    |
 | Gravity         | 100AXP | Deals 25% HP worth of gravity damage.                                                                         |               | MAG, MDEF    |
 | Graviga         | 100AXP | Deals 50% HP worth of gravity damage.                                                                         | Gravity       | MAG, MDEF    |
 | Quake           | 300AXP | Deals 6.0x earth damage. Targets everyone.                                                                    |               | MAG, MDEF    |
