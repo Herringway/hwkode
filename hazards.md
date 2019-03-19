@@ -40,6 +40,18 @@ BREAD! A random fighter is healed for 64HP.
 ### Castlevania II
 WHAT A HORRIBLE NIGHT TO HAVE A CURSE. 10 random status effects are distributed randomly.
 
+## Final Fantasy
+Hazards inspired by the Final Fantasy series.
+
+### Final Fantasy 1: Time Loop
+A defeated boss went back in time to live FOREVER! If there are any dead bosses, one of them becomes CHAOS! Any living bosses will join the heroes against this new threat.
+### Final Fantasy 2: The Emperor
+A random boss gains Auto-life? status. If triggered, dark AND light versions of that boss will rise...
+### Final Fantasy 3: Warriors of Darkness
+The warriors of darkness join the heroes! They won't be sticking around for long, though.
+### Final Fantasy 4: Everyone Dies?
+A random fighter is killed forever! ...Probably.
+
 ## Sauce
 Hazards inspired by ridiculous Garry's Mod and Source Filmmaker animations.
 
