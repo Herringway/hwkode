@@ -191,7 +191,6 @@ All stats are rounded up to the next nearest integer.
 |Holy      |✝️       |
 |Dark      |😈       |
 |Ice       |⛸️       |
-|Heart     |💖       |
 |Gravity   |🌑       |
 
 ## Status Effects
