@@ -41,96 +41,6 @@ At the beginning of each round, a [Hazard](#hazards) is selected. The effects of
 
 Every fighter recovers 10% SP at the start of a round.
 
-## Elements
-
-|Element   | Symbol | Special                                              |
-|----------|--------|------------------------------------------------------|
-|Water     |💧       |Douses flames                                         |
-|Fire      |🔥       |Thaws ice                                             |
-|Lightning |⚡       |Double damage on wet targets, backfire on wet casters |
-|Wind      |🌪️       |                                                     |
-|Earth     |⛰️       |                                                     |
-|Poison    |☣️       |                                                     |
-|Holy      |✝️       |                                                     |
-|Dark      |😈       |                                                      |
-|Ice       |⛸️       |Wet targets may be frozen                            |
-|Heart     |💖       |                                                      |
-|Gravity   |🌑       |Damage dealt is usually a percentage of current HP    |
-
-## Status Effects
-
-### Positive
-
-* Protect: Unit's defense increased by 50.
-* Shell: Unit's magic defense increased by 50.
-* Haste: Doubles unit's speed.
-* Bubble: Unit's HP is doubled.
-* Aura: Unit will not take damage if it less than the number indicated.
-* Auto-Life: Raise will automatically be cast on this unit when it dies.
-* Metal: All damage done to this unit is reduced to 1.
-* Quick: Unit has twice as many turns this round, and may use these new turns immediately after gaining the status.
-* Attack+: Unit's attack stats increase by 50%.
-* Defense+: Unit's defense stats increase by 50%.
-* Regen: Unit recovers 1/8th of their max HP each round.
-* Elemental Infusion: Unit deals 50% more damage with a particular element and gains 25 resist against that element.
-* Reflect: Most spells targeted at unit will bounce off and hit the caster.
-* Last Stand: Unit will survive the next fatal blow with 1HP.
-* Astra: Prevents the next negative status effect from landing.
-
-### Negative
-
-* Blindness: Halves accuracy of unit.
-* Silence: Unit cannot use magic or sound-based a-skills.
-* Paralysis: Unit cannot use physical a-skills.
-* Slow: Halves speed of unit.
-* Poison: Unit loses 1/8th of their max HP each round.
-* Sleep: Unit cannot take turns. Healed by physical attacks.
-* Confusion: Unit's a-skills have a 25% of their target changing. 25% chance of failure. Healed by physical attacks.
-* Stop: Unit cannot take turns.
-* Frozen: Unit cannot take turns. Thawed by fire.
-* Old: Unit's stats drop until healed.
-* Doom: Unit is KOed once timer expires.
-* Lock: Unit may only use default a-skills.
-* Embargo: Unit may not use items.
-* Sap: Unit loses 1/32nd HP each round. Expires after 10 rounds.
-* Curse: Any damage dealt by unit is also dealt to it.
-* Petrified: Unit is unable to act and is considered dead.
-* Attack-: Unit's attack stats decrease by 25%.
-* Defense-: Unit's defense stats decrease by 25%.
-
-### Neutral
-
-* Berserk: Unit loses control, but gains +50% attack. Cannot be confused.
-* Mini: Unit's attack drops to 1, but evasion doubles.
-* Float: Unit avoids earth attacks, but cannot jump or pick up items.
-* Reverse: Unit is healed by damage and damaged by healing.
-* Mushroom: Unit cannot act, but regenerates HP every round.
-* Missing in action: Unit cannot act, but also cannot be harmed.
-* Undead: Unit is healed by most instant death effects, but harmed by healing.
-
-### ???
-
-* Imp: Unit can't use items or most a-skills, but...?
-* Glitched: Things will happen.
-
-## Miscellaneous Rules
-
-* Multitargetting: Some a-skills can optionally target multiple units. When this occurs, damage is divided by half of the number of units. This does not apply to skills that are always multitargetted.
-
-## Base Stats
-
-With no skills or other modifiers, everyone has *100 HP*, *100 SP*, *50 ATK*, *50 DEF*, *50 MATK*, *50 MDEF* and *10 SPD*. The main way to increase stats is to invest AXP in relevant [A-Skills]. Final stats are determined by a set of formulae:
-
-ATK, DEF, MATK and MDEF: ```StatBonus = sqrt(3 * XPSpentInRelevantSkills)```
-
-HP: ```StatBonus = sqrt(4 * XPSpentInHPSkills + 0.5 * XPSpentInDEFSkills + 0.1 * XPSpentInMDEFSkills)```
-
-SP: ```StatBonus = sqrt(4 * XPSpentInSPSkills + 0.1 * XPSpentInATKSkills + 0.5 * XPSpentInMATKSkills)```
-
-Speed: ```StatBonus = sqrt(2 * XPSPentInRelevantSkills)```
-
-All stats are rounded up to the next nearest integer.
-
 ## Skills
 
 This system has two main types of skills. A-Skills are Active Skills, skills you can use when your turn comes up in battle. P-Skills are Passive Skills, which are always active. Players can choose any combination of skills as long as they do not exceed the point limits. Players currently have 2000AXP and 1000PXP to spend on A-Skills and P-Skills respectively. Players cannot earn additional XP, but the limit will rise over time for everyone as the system progresses.
@@ -253,6 +163,96 @@ P-skills are your passive abilities. Many of these can change your playstyle sig
 | Regenerative      | 300PXP | Begin battle with permanent regen.                                                                    |
 | Lightweight       | 100PXP | Begin battle with permanent float.                                                                    |
 | Speedy            | 200PXP | Begin battle with permanent haste.                                                                    |
+
+## Base Stats
+
+With no skills or other modifiers, everyone has *100 HP*, *100 SP*, *50 ATK*, *50 DEF*, *50 MATK*, *50 MDEF* and *10 SPD*. The main way to increase stats is to invest AXP in relevant [A-Skills]. Final stats are determined by a set of formulae:
+
+ATK, DEF, MATK and MDEF: ```StatBonus = sqrt(3 * XPSpentInRelevantSkills)```
+
+HP: ```StatBonus = sqrt(4 * XPSpentInHPSkills + 0.5 * XPSpentInDEFSkills + 0.1 * XPSpentInMDEFSkills)```
+
+SP: ```StatBonus = sqrt(4 * XPSpentInSPSkills + 0.1 * XPSpentInATKSkills + 0.5 * XPSpentInMATKSkills)```
+
+Speed: ```StatBonus = sqrt(2 * XPSPentInRelevantSkills)```
+
+All stats are rounded up to the next nearest integer.
+
+## Elements
+
+|Element   | Symbol | Special                                              |
+|----------|--------|------------------------------------------------------|
+|Water     |💧       |Douses flames                                         |
+|Fire      |🔥       |Thaws ice                                             |
+|Lightning |⚡       |Double damage on wet targets, backfire on wet casters |
+|Wind      |🌪️       |                                                     |
+|Earth     |⛰️       |                                                     |
+|Poison    |☣️       |                                                     |
+|Holy      |✝️       |                                                     |
+|Dark      |😈       |                                                      |
+|Ice       |⛸️       |Wet targets may be frozen                            |
+|Heart     |💖       |                                                      |
+|Gravity   |🌑       |Damage dealt is usually a percentage of current HP    |
+
+## Status Effects
+
+### Positive
+
+* Protect: Unit's defense increased by 50.
+* Shell: Unit's magic defense increased by 50.
+* Haste: Doubles unit's speed.
+* Bubble: Unit's HP is doubled.
+* Aura: Unit will not take damage if it less than the number indicated.
+* Auto-Life: Raise will automatically be cast on this unit when it dies.
+* Metal: All damage done to this unit is reduced to 1.
+* Quick: Unit has twice as many turns this round, and may use these new turns immediately after gaining the status.
+* Attack+: Unit's attack stats increase by 50%.
+* Defense+: Unit's defense stats increase by 50%.
+* Regen: Unit recovers 1/8th of their max HP each round.
+* Elemental Infusion: Unit deals 50% more damage with a particular element and gains 25 resist against that element.
+* Reflect: Most spells targeted at unit will bounce off and hit the caster.
+* Last Stand: Unit will survive the next fatal blow with 1HP.
+* Astra: Prevents the next negative status effect from landing.
+
+### Negative
+
+* Blindness: Halves accuracy of unit.
+* Silence: Unit cannot use magic or sound-based a-skills.
+* Paralysis: Unit cannot use physical a-skills.
+* Slow: Halves speed of unit.
+* Poison: Unit loses 1/8th of their max HP each round.
+* Sleep: Unit cannot take turns. Healed by physical attacks.
+* Confusion: Unit's a-skills have a 25% of their target changing. 25% chance of failure. Healed by physical attacks.
+* Stop: Unit cannot take turns.
+* Frozen: Unit cannot take turns. Thawed by fire.
+* Old: Unit's stats drop until healed.
+* Doom: Unit is KOed once timer expires.
+* Lock: Unit may only use default a-skills.
+* Embargo: Unit may not use items.
+* Sap: Unit loses 1/32nd HP each round. Expires after 10 rounds.
+* Curse: Any damage dealt by unit is also dealt to it.
+* Petrified: Unit is unable to act and is considered dead.
+* Attack-: Unit's attack stats decrease by 25%.
+* Defense-: Unit's defense stats decrease by 25%.
+
+### Neutral
+
+* Berserk: Unit loses control, but gains +50% attack. Cannot be confused.
+* Mini: Unit's attack drops to 1, but evasion doubles.
+* Float: Unit avoids earth attacks, but cannot jump or pick up items.
+* Reverse: Unit is healed by damage and damaged by healing.
+* Mushroom: Unit cannot act, but regenerates HP every round.
+* Missing in action: Unit cannot act, but also cannot be harmed.
+* Undead: Unit is healed by most instant death effects, but harmed by healing.
+
+### ???
+
+* Imp: Unit can't use items or most a-skills, but...?
+* Glitched: Things will happen.
+
+## Miscellaneous Rules
+
+* Multitargetting: Some a-skills can optionally target multiple units. When this occurs, damage is divided by half of the number of units. This does not apply to skills that are always multitargetted.
 
 ## Custom Shop
 
