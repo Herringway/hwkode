@@ -234,20 +234,23 @@ Everyone has access to these a-skills no matter what they choose.
 
 P-skills are your passive abilities. Many of these can change your playstyle significantly.
 
-* Magic Power+ (500PXP): Increases magic power by 15%.
+* Magic Power+ (500PXP): Increases magic power by 50%.
+* Attack Power+ (500PXP): Increases attack power by 50%.
 * Turbo MP (500PXP): Magic strength and cost increased by 30%.
 * Elemancy (500PXP): Elemental spells treat enemy resistance as if it were 25 lower.
 * Mystic Blade (250PXP): Spells can be cast through weapons. Treat as physical attacks instead.
 * Geomancy (500PXP): Gain a stat bonus and/or status effect related to the current arena.
 * Mugging (250PXP): Steal x skills have increased success rate and can deal damage.
 * Integration (500PXP): Can choose to "equip" items instead of using them, gaining a (usually) beneficial boost.
-* Suffering (500PXP): Magic power is increased by 10% per negative status effect on target.
-* Status Boost (500PXP): Positive status effects are empowered.
-* Antimagic (500PXP): Can choose to deal damage to mp instead.
+* Status Boost (500PXP): Negative status effects are more likely to land.
 * Bloodbath (500PXP): Increases damage by 50% at the cost of 12.5% max HP per turn.
-* Absorption (500PXP): When dealing damage, can absorb 10% total damage as healing. Can temporarily learn certain abilities when hit by them.
-* Multicasting (500PXP): Can attack multiple times per turn at the cost of upcoming turns. Gains a bonus based on how many extra turns are spent.
-* Phazon Infused (1000PXP): Skill strength increases by 75% and HP regenerates by 20HP per round, but you become immune to healing (Except revival) and have permanent doom status.
+* (Element) Resist (200PXP): Increases resistance to an element by 25.
+* Auto-protection (150PXP): Begin battle with protect and shell.
+* Undead (100PXP): Begin battle undead.
+* Double or Nothing (100PXP): Attack and magic power double, but your accuracy is halved.
+* Regenerative (300PXP): Begin battle with permanent regen.
+* Lightweight (100PXP): Begin battle with permanent float.
+* Speedy (200PXP): Begin battle with permanent haste.
 
 ## Custom Shop
 
