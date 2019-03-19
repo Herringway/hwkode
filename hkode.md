@@ -198,13 +198,13 @@ All stats are rounded up to the next nearest integer.
 
 ### Positive
 
-* Protect: Unit's defense increased by 50.
-* Shell: Unit's magic defense increased by 50.
-* Haste: Doubles unit's speed.
+* Protect: Unit's defense is doubled.
+* Shell: Unit's magic defense is doubled.
+* Haste: Unit's speed is double.
 * Bubble: Unit's HP is doubled.
 * Aura: Unit will not take damage if it less than the number indicated.
 * Auto-Life: Raise will automatically be cast on this unit when it dies.
-* Metal: All damage done to this unit is reduced to 1.
+* Metal: Unit's defenses are raised significantly.
 * Quick: Unit has twice as many turns this round, and may use these new turns immediately after gaining the status.
 * Attack+: Unit's attack stats increase by 50%.
 * Defense+: Unit's defense stats increase by 50%.
@@ -229,7 +229,7 @@ All stats are rounded up to the next nearest integer.
 * Doom: Unit is KOed once timer expires.
 * Lock: Unit may only use default a-skills.
 * Embargo: Unit may not use items.
-* Sap: Unit loses 1/32nd HP each round. Expires after 10 rounds.
+* Sap: Unit loses 1% of their HP each round. Usually expires after 5 rounds.
 * Curse: Any damage dealt by unit is also dealt to it.
 * Petrified: Unit is unable to act and is considered dead.
 * Attack-: Unit's attack stats decrease by 25%.
@@ -252,7 +252,7 @@ All stats are rounded up to the next nearest integer.
 
 ## Miscellaneous Rules
 
-* Multitargetting: Some a-skills can optionally target multiple units. When this occurs, damage is divided by half of the number of units. This does not apply to skills that are always multitargetted.
+* Multitargetting: Some a-skills can optionally target multiple units. When this occurs, damage is divided according to the number of units. This does not apply to skills that are always multitargetted.
 
 ## Custom Shop
 
