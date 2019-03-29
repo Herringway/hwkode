@@ -61,89 +61,89 @@ Everyone has access to these a-skills no matter what they choose.
 
 #### Physical A-Skills
 
-| Name            | AXP    | Description                                                                                                   | Prerequisites | Boosted Stats|
-|-----------------|--------|---------------------------------------------------------------------------------------------------------------|---------------|--------------|
-| Cutting Edge    | 100AXP | Deals 3.0x water damage.                                                                                      |               | ATK, DEF     |
-| Plume Edge      | 100AXP | Deals 5.0x water damage.                                                                                      | Cutting Edge  | ATK, DEF     |
-| Ragnarok        | 100AXP | Deals 3.0x earth damage.                                                                                      |               | ATK, DEF     |
-| Odyssey         | 100AXP | Deals 5.0x earth damage.                                                                                      | Ragnarok      | ATK, DEF     |
-| Planet Diver    | 100AXP | Deals 3.0x fire damage. 5.0x if jumping.                                                                      |               | ATK, DEF     |
-| Planetary       | 100AXP | Deals 5.0x fire damage. 8.0x if jumping.                                                                      | Planet Diver  | ATK, DEF     |
-| Astral Blast    | 100AXP | Deals 3.0x wind damage.                                                                                       |               | ATK, DEF     |
-| Thunder Mine    | 100AXP | Deals 5.0x wind damage.                                                                                       | Astral Blast  | ATK, DEF     |
-| Elec Sword      | 100AXP | Deals 3.0x lightning damage.                                                                                  |               | ATK, DEF     |
-| Elec Blade      | 100AXP | Deals 5.0x lightning damage.                                                                                  | Elec Sword    | ATK, DEF     |
-| Saint Cross     | 200AXP | Deals 5.0x holy damage.                                                                                       |               | ATK, DEF     |
-| Jump            | 100AXP | Allows caster to jump into the skies for one turn, out of range of many attacks.                              |               | ATK, DEF     |
-| Dive            | 100AXP | Deals 9.0x non-elemental damage. Only usable while caster is jumping.                                         | Jump          | ATK, DEF     |
-| Drain Jump      | 100AXP | Deals 4.0x non-elemental damage and heals the caster for the same amount. Only usable while caster is jumping.| Jump          | ATK, DEF     |
-| Ultra Jump      | 100AXP | Deals 4.0x non-elemental damage and jump back into the sky. Only usable while caster is jumping.              | Jump          | ATK, DEF     |
-| Metal Cut       | 300AXP | Deals 2.0x non-elemental damage. Cuts through metallic defenses.                                              |               | ATK, DEF     |
-| Magnum Break    | 200AXP | Deals 3.0x fire damage to all enemies.                                                                        |               | ATK, DEF     |
-| Chomp           | 250AXP | Pull out a random item and throw it.                                                                          |               | ATK, DEF     |
-| Throw           | 400AXP | Throw a held item.                                                                                            |               | ATK, SPD     |
-| Sledge          | 100AXP | Deals 4.0x non-elemental damage, 35% chance of inflicting mini status.                                        |               | ATK, DEF     |
-| Element Sonic   | 300AXP | Deals 1.25x fire/water/lightning/earth damage to 4 units.                                                     |               | ATK, DEF     |
-| Muramasa        | 150AXP | Deals damage equal to caster max hp - current hp.                                                             |               | HP, ATK      |
-| Goblin Punch    | 100AXP | Deals 8.0x non-elemental damage if caster and target's hp digits add up to the same number.                   |               | HP, ATK      |
-| Magic Hammer    | 150AXP | Deals 1.0x non-elemental damage to target's SP.                                                               |               | ATK, DEF     |
-| Ice Shard       | 150AXP | Deals 3.0x ice damage. Hits before other moves.                                                               |               | ATK, DEF     |
-| Dizzy Punch     | 200AXP | Deals 3.0x non-elemental damage. 50% chance of afflicting target with confusion.                              |               | ATK, DEF     |
-| Dynamic Punch   | 200AXP | Deals 12.0x non-elemental damage, but is likely to miss. Will confuse if it connects.                         |               | ATK, DEF     |
-| Sky Uppercut    | 150AXP | Deals 4.0x non-elemental damage and can hit targets that are normally unreachable.                            |               | ATK, DEF     |
-| Shadow Claw     | 200AXP | Deals 4.0x dark damage. Increased chance of critical hit.                                                     |               | ATK, DEF     |
-| Steal           | 150AXP | Steals an item from the target.                                                                               |               | ATK, SPD     |
-| Steal Dexterity | 150AXP | Inflicts slow on target and grants user haste.                                                                | Steal         | ATK, SPD     |
-| Steal Power     | 150AXP | Inflicts Attack- on target and grants user Attack+.                                                           | Steal         | ATK, SPD     |
-| Steal Defense   | 150AXP | Inflicts Defense- on target and grants user Defense+.                                                         | Steal         | ATK, SPD     |
-| Steal Health    | 150AXP | Inflicts Poison on target and grants user Regen.                                                              | Steal         | ATK, SPD     |
+| Name            | AXP    | Description                                                                                                   | Prerequisites | Boosted Stats| SP Cost |
+|-----------------|--------|---------------------------------------------------------------------------------------------------------------|---------------|--------------|---------|
+| Cutting Edge    | 100AXP | Deals 3.0x water damage.                                                                                      |               | ATK, DEF     | 10      |
+| Plume Edge      | 100AXP | Deals 5.0x water damage.                                                                                      | Cutting Edge  | ATK, DEF     | 20      |
+| Ragnarok        | 100AXP | Deals 3.0x earth damage.                                                                                      |               | ATK, DEF     | 10      |
+| Odyssey         | 100AXP | Deals 5.0x earth damage.                                                                                      | Ragnarok      | ATK, DEF     | 20      |
+| Planet Diver    | 100AXP | Deals 3.0x fire damage. 5.0x if jumping.                                                                      |               | ATK, DEF     | 10      |
+| Planetary       | 100AXP | Deals 5.0x fire damage. 8.0x if jumping.                                                                      | Planet Diver  | ATK, DEF     | 20      |
+| Astral Blast    | 100AXP | Deals 3.0x wind damage.                                                                                       |               | ATK, DEF     | 10      |
+| Thunder Mine    | 100AXP | Deals 5.0x wind damage.                                                                                       | Astral Blast  | ATK, DEF     | 20      |
+| Elec Sword      | 100AXP | Deals 3.0x lightning damage.                                                                                  |               | ATK, DEF     | 10      |
+| Elec Blade      | 100AXP | Deals 5.0x lightning damage.                                                                                  | Elec Sword    | ATK, DEF     | 20      |
+| Saint Cross     | 200AXP | Deals 5.0x holy damage.                                                                                       |               | ATK, DEF     | 20      |
+| Jump            | 100AXP | Allows caster to jump into the skies for one turn, out of range of many attacks.                              |               | ATK, DEF     | 10      |
+| Dive            | 100AXP | Deals 9.0x non-elemental damage. Only usable while caster is jumping.                                         | Jump          | ATK, DEF     | 20      |
+| Drain Jump      | 100AXP | Deals 4.0x non-elemental damage and heals the caster for the same amount. Only usable while caster is jumping.| Jump          | ATK, DEF     | 20      |
+| Ultra Jump      | 100AXP | Deals 4.0x non-elemental damage and jump back into the sky. Only usable while caster is jumping.              | Jump          | ATK, DEF     | 20      |
+| Metal Cut       | 300AXP | Deals 2.0x non-elemental damage. Cuts through metallic defenses.                                              |               | ATK, DEF     | 30      |
+| Magnum Break    | 200AXP | Deals 3.0x fire damage to all enemies.                                                                        |               | ATK, DEF     | 20      |
+| Chomp           | 250AXP | Pull out a random item and throw it.                                                                          |               | ATK, DEF     | 15      |
+| Throw           | 400AXP | Throw a held item.                                                                                            |               | ATK, SPD     | 0       |
+| Sledge          | 100AXP | Deals 4.0x non-elemental damage, 35% chance of inflicting mini status.                                        |               | ATK, DEF     | 20      |
+| Element Sonic   | 300AXP | Deals 1.25x fire/water/lightning/earth damage to 4 units.                                                     |               | ATK, DEF     | 40      |
+| Muramasa        | 150AXP | Deals damage equal to caster max hp - current hp.                                                             |               | HP, ATK      | 20      |
+| Goblin Punch    | 100AXP | Deals 8.0x non-elemental damage if caster and target's hp digits add up to the same number.                   |               | HP, ATK      | 0       |
+| Magic Hammer    | 150AXP | Deals 1.0x non-elemental damage to target's SP.                                                               |               | ATK, DEF     | 20      |
+| Ice Shard       | 150AXP | Deals 3.0x ice damage. Hits before other moves.                                                               |               | ATK, DEF     | 20      |
+| Dizzy Punch     | 200AXP | Deals 3.0x non-elemental damage. 50% chance of afflicting target with confusion.                              |               | ATK, DEF     | 20      |
+| Dynamic Punch   | 200AXP | Deals 12.0x non-elemental damage, but is likely to miss. Will confuse if it connects.                         |               | ATK, DEF     | 20      |
+| Sky Uppercut    | 150AXP | Deals 4.0x non-elemental damage and can hit targets that are normally unreachable.                            |               | ATK, DEF     | 15      |
+| Shadow Claw     | 200AXP | Deals 4.0x dark damage. Increased chance of critical hit.                                                     |               | ATK, DEF     | 20      |
+| Steal           | 150AXP | Steals an item from the target.                                                                               |               | ATK, SPD     | 10      |
+| Steal Dexterity | 150AXP | Inflicts slow on target and grants user haste.                                                                | Steal         | ATK, SPD     | 25      |
+| Steal Power     | 150AXP | Inflicts Attack- on target and grants user Attack+.                                                           | Steal         | ATK, SPD     | 25      |
+| Steal Defense   | 150AXP | Inflicts Defense- on target and grants user Defense+.                                                         | Steal         | ATK, SPD     | 25      |
+| Steal Health    | 150AXP | Inflicts Poison on target and grants user Regen.                                                              | Steal         | ATK, SPD     | 25      |
 
 #### Magical A-Skills
 
-| Name            | AXP    | Description                                                                                                   | Prerequisites | Boosted Stats|
-|-----------------|--------|---------------------------------------------------------------------------------------------------------------|---------------|--------------|
-| Fira            | 100AXP | Deals 3.0x fire damage.                                                                                       |               | MAG, MDEF    |
-| Firaja          | 100AXP | Deals 5.0x fire damage.                                                                                       | Fira          | MAG, MDEF    |
-| Blizzara        | 100AXP | Deals 3.0x ice damage.                                                                                        |               | MAG, MDEF    |
-| Blizzaja        | 100AXP | Deals 5.0x ice damage.                                                                                        | Blizzara      | MAG, MDEF    |
-| Thundara        | 100AXP | Deals 3.0x lightning damage.                                                                                  |               | MAG, MDEF    |
-| Thundaja        | 100AXP | Deals 5.0x lightning damage.                                                                                  | Thundara      | MAG, MDEF    |
-| Aera            | 100AXP | Deals 3.0x wind damage.                                                                                       |               | MAG, MDEF    |
-| Aeroja          | 100AXP | Deals 5.0x wind damage.                                                                                       | Aera          | MAG, MDEF    |
-| Bio             | 100AXP | Deals 3.0x poison damage.                                                                                     |               | MAG, MDEF    |
-| Bioga           | 100AXP | Deals 5.0x poison damage.                                                                                     | Bio           | MAG, MDEF    |
-| Zammle          | 100AXP | Deals 3.0x dark damage.                                                                                       |               | MAG, MDEF    |
-| Kazammle        | 100AXP | Deals 5.0x dark damage.                                                                                       | Zammle        | MAG, MDEF    |
-| Holy            | 200AXP | Deals 5.0x holy damage.                                                                                       |               | MAG, MDEF    |
-| Gravity         | 100AXP | Deals 25% HP worth of gravity damage.                                                                         |               | MAG, MDEF    |
-| Graviga         | 100AXP | Deals 50% HP worth of gravity damage.                                                                         | Gravity       | MAG, MDEF    |
-| Quake           | 300AXP | Deals 6.0x earth damage. Targets everyone.                                                                    |               | MAG, MDEF    |
-| Osmose          | 50AXP  | Drains SP from an enemy. 1.0x multiplier.                                                                     |               | MAG, MDEF, SP|
-| Osmosega        | 100AXP | Drains SP from an enemy. 2.0x multiplier.                                                                     | Osmose        | MAG, MDEF, SP|
-| Hyper Beam      | 300AXP | Deals 12.0x non-elemental damage. Caster cannot act next turn.                                                |               | MAG, MDEF    |
-| Flare           | 300AXP | Deals 6.0x non-elemental damage. Pierces defense.                                                             |               | MAG, MDEF    |
-| Ultima          | 300AXP | Deals 5.0x non-elemental damage to all enemies.                                                               |               | MAG, MDEF    |
-| Psyshock        | 100AXP | Deals 4.0x non-elemental physical damage.                                                                     |               | MAG, MDEF    |
-| Aqua Breath     | 200AXP | Deals 4.0x water/wind damage to all enemies.                                                                  |               | MAG, MDEF    |
-| Breath Wing     | 200AXP | Deals 25% HP gravity/wind-elemental damage to all enemies.                                                    |               | MAG, MDEF    |
+| Name            | AXP    | Description                                                                                                   | Prerequisites | Boosted Stats| SP Cost |
+|-----------------|--------|---------------------------------------------------------------------------------------------------------------|---------------|--------------|---------|
+| Fira            | 100AXP | Deals 3.0x fire damage.                                                                                       |               | MAG, MDEF    | 10      |
+| Firaja          | 100AXP | Deals 5.0x fire damage.                                                                                       | Fira          | MAG, MDEF    | 20      |
+| Blizzara        | 100AXP | Deals 3.0x ice damage.                                                                                        |               | MAG, MDEF    | 10      |
+| Blizzaja        | 100AXP | Deals 5.0x ice damage.                                                                                        | Blizzara      | MAG, MDEF    | 20      |
+| Thundara        | 100AXP | Deals 3.0x lightning damage.                                                                                  |               | MAG, MDEF    | 10      |
+| Thundaja        | 100AXP | Deals 5.0x lightning damage.                                                                                  | Thundara      | MAG, MDEF    | 20      |
+| Aera            | 100AXP | Deals 3.0x wind damage.                                                                                       |               | MAG, MDEF    | 10      |
+| Aeroja          | 100AXP | Deals 5.0x wind damage.                                                                                       | Aera          | MAG, MDEF    | 20      |
+| Bio             | 100AXP | Deals 3.0x poison damage.                                                                                     |               | MAG, MDEF    | 10      |
+| Bioga           | 100AXP | Deals 5.0x poison damage.                                                                                     | Bio           | MAG, MDEF    | 20      |
+| Zammle          | 100AXP | Deals 3.0x dark damage.                                                                                       |               | MAG, MDEF    | 10      |
+| Kazammle        | 100AXP | Deals 5.0x dark damage.                                                                                       | Zammle        | MAG, MDEF    | 20      |
+| Holy            | 200AXP | Deals 5.0x holy damage.                                                                                       |               | MAG, MDEF    | 30      |
+| Gravity         | 100AXP | Deals 25% HP worth of gravity damage.                                                                         |               | MAG, MDEF    | 30      |
+| Graviga         | 100AXP | Deals 50% HP worth of gravity damage.                                                                         | Gravity       | MAG, MDEF    | 40      |
+| Quake           | 300AXP | Deals 6.0x earth damage. Targets everyone.                                                                    |               | MAG, MDEF    | 15      |
+| Osmose          | 50AXP  | Drains SP from an enemy. 1.0x multiplier.                                                                     |               | MAG, MDEF, SP| 1       |
+| Osmosega        | 100AXP | Drains SP from an enemy. 2.0x multiplier.                                                                     | Osmose        | MAG, MDEF, SP| 1       |
+| Hyper Beam      | 300AXP | Deals 12.0x non-elemental damage. Caster cannot act next turn.                                                |               | MAG, MDEF    | 50      |
+| Flare           | 300AXP | Deals 6.0x non-elemental damage. Pierces defense.                                                             |               | MAG, MDEF    | 30      |
+| Ultima          | 300AXP | Deals 5.0x non-elemental damage to all enemies.                                                               |               | MAG, MDEF    | 30      |
+| Psyshock        | 100AXP | Deals 4.0x non-elemental physical damage.                                                                     |               | MAG, MDEF    | 20      |
+| Aqua Breath     | 200AXP | Deals 4.0x water/wind damage to all enemies.                                                                  |               | MAG, MDEF    | 30      |
+| Breath Wing     | 200AXP | Deals 25% HP gravity/wind-elemental damage to all enemies.                                                    |               | MAG, MDEF    | 60      |
 
 #### Support A-Skills
 
-| Name            | AXP    | Description                                                                                                   | Prerequisites | Boosted Stats|
-|-----------------|--------|---------------------------------------------------------------------------------------------------------------|---------------|--------------|
-| Cura            | 300AXP | Heals 2.0x damage.                                                                                            |               | MAG, MDEF, HP|
-| Curaja          | 300AXP | Heals 4.0x damage.                                                                                            | Cura          | MAG, MDEF, HP|
-| Astra           | 200AXP | Blocks a status effect-causing attack.                                                                        |               | MAG, MDEF, HP|
-| Prayer          | 150AXP | Heals 1.0x damage and grants regen status to targets.                                                         |               | MAG, MDEF, HP|
-| Protect         | 100AXP | Doubles physical defense.                                                                                     |               | DEF, MDEF, HP|
-| Shell           | 100AXP | Doubles magic defense.                                                                                        |               | DEF, MDEF, HP|
-| White Wind      | 300AXP | Restores an amount of HP equal to caster's HP to all allies.                                                  |               | DEF, MDEF, HP|
-| PSI Healing α   | 100AXP | Heals negative status effects, except death.                                                                  |               | DEF, MDEF, HP|
-| PSI Healing Ω   | 100AXP | Heals negative status effects, including death.                                                               | PSI Healing α | DEF, MDEF, HP|
-| Slots           | 300AXP | Spin the slots for something good!                                                                            |               | HP, SP       |
-| Disappear       | 150AXP | Gain the missing-in-action status for one round.                                                              |               | ATK, SPD     |
-| Dragon Dance    | 400AXP | Grant Haste, Attack+ and Defense+ to user.                                                                    |               | HP, SPD      |
-| Find Item       | 300AXP | Look around for an item. This doesn't use a turn and can only be used once per round.                         |               | HP, SPD      |
+| Name            | AXP    | Description                                                                                                   | Prerequisites | Boosted Stats| SP Cost |
+|-----------------|--------|---------------------------------------------------------------------------------------------------------------|---------------|--------------|---------|
+| Cura            | 300AXP | Heals 2.0x damage.                                                                                            |               | MAG, MDEF, HP| 10      |
+| Curaja          | 300AXP | Heals 4.0x damage.                                                                                            | Cura          | MAG, MDEF, HP| 20      |
+| Astra           | 200AXP | Blocks a status effect-causing attack.                                                                        |               | MAG, MDEF, HP| 20      |
+| Prayer          | 150AXP | Heals 1.0x damage and grants regen status to targets.                                                         |               | MAG, MDEF, HP| 30      |
+| Protect         | 100AXP | Doubles physical defense.                                                                                     |               | DEF, MDEF, HP| 30      |
+| Shell           | 100AXP | Doubles magic defense.                                                                                        |               | DEF, MDEF, HP| 30      |
+| White Wind      | 300AXP | Restores an amount of HP equal to caster's HP to all allies.                                                  |               | DEF, MDEF, HP| 40      |
+| PSI Healing α   | 100AXP | Heals negative status effects, except death.                                                                  |               | DEF, MDEF, HP| 20      |
+| PSI Healing Ω   | 100AXP | Heals negative status effects, including death.                                                               | PSI Healing α | DEF, MDEF, HP| 40      |
+| Slots           | 300AXP | Spin the slots for something good!                                                                            |               | HP, SP       | 15      |
+| Disappear       | 150AXP | Gain the missing-in-action status for one round.                                                              |               | ATK, SPD     | 15      |
+| Dragon Dance    | 400AXP | Grant Haste, Attack+ and Defense+ to user.                                                                    |               | HP, SPD      | 40      |
+| Find Item       | 300AXP | Look around for an item. This doesn't use a turn and can only be used once per round.                         |               | HP, SPD      | 0       |
 
 ### P-Skills
 
