@@ -118,6 +118,7 @@ Everyone has access to these a-skills no matter what they choose.
 | Gravity         | 100AXP | Deals 25% HP worth of gravity damage.                                                                         |               | MAG, MDEF    | 30      |
 | Graviga         | 100AXP | Deals 50% HP worth of gravity damage.                                                                         | Gravity       | MAG, MDEF    | 40      |
 | Quake           | 300AXP | Deals 6.0x earth damage. Targets everyone.                                                                    |               | MAG, MDEF    | 15      |
+| Drain           | 100AXP | Deals 3.0x damage, and heals user for the same amount.                                                        |               | MAG, MDEF    | 15      |
 | Osmose          | 50AXP  | Drains SP from an enemy. 1.0x multiplier.                                                                     |               | MAG, MDEF, SP| 1       |
 | Osmosega        | 100AXP | Drains SP from an enemy. 2.0x multiplier.                                                                     | Osmose        | MAG, MDEF, SP| 1       |
 | Hyper Beam      | 300AXP | Deals 12.0x non-elemental damage. Caster cannot act next turn.                                                |               | MAG, MDEF    | 50      |
