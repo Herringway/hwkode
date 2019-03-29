@@ -78,7 +78,7 @@ Everyone has access to these a-skills no matter what they choose.
 | Dive            | 100AXP | Deals 9.0x non-elemental damage. Only usable while caster is jumping.                                         | Jump          | ATK, DEF     | 20      |
 | Drain Jump      | 100AXP | Deals 5.0x non-elemental damage and heals the caster for the same amount. Only usable while caster is jumping.| Jump          | ATK, DEF     | 20      |
 | Ultra Jump      | 100AXP | Deals 4.0x non-elemental damage and jump back into the sky. Only usable while caster is jumping.              | Jump          | ATK, DEF     | 20      |
-| Metal Cut       | 300AXP | Deals 2.0x non-elemental damage. Cuts through metallic defenses.                                              |               | ATK, DEF     | 30      |
+| Metal Cut       | 300AXP | Deals 2.0x non-elemental damage. Cuts through defenses.                                                       |               | ATK, DEF     | 30      |
 | Magnum Break    | 200AXP | Deals 3.0x fire damage to all enemies.                                                                        |               | ATK, DEF     | 20      |
 | Chomp           | 250AXP | Pull out a random item and throw it.                                                                          |               | ATK, DEF     | 15      |
 | Throw           | 400AXP | Throw a held item.                                                                                            |               | ATK, SPD     | 0       |
