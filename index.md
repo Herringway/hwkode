@@ -83,7 +83,7 @@ Everyone has access to these a-skills no matter what they choose.
 | Chomp           | 250AXP | Pull out a random item and throw it.                                                                          |               | ATK, DEF     |
 | Throw           | 400AXP | Throw a held item.                                                                                            |               | ATK, SPD     |
 | Sledge          | 100AXP | Deals 4.0x non-elemental damage, 35% chance of inflicting mini status.                                        |               | ATK, DEF     |
-| Life Sword      | 300AXP | Deals 4.0x fire/water/lightning/earth damage to up to 2 units.                                                |               | ATK, DEF     |
+| Element Sonic   | 300AXP | Deals 1.25x fire/water/lightning/earth damage to 4 units.                                                     |               | ATK, DEF     |
 | Muramasa        | 150AXP | Deals damage equal to caster max hp - current hp.                                                             |               | HP, ATK      |
 | Goblin Punch    | 100AXP | Deals 8.0x non-elemental damage if caster and target's hp digits add up to the same number.                   |               | HP, ATK      |
 | Magic Hammer    | 150AXP | Deals 1.0x non-elemental damage to target's SP.                                                               |               | ATK, DEF     |
